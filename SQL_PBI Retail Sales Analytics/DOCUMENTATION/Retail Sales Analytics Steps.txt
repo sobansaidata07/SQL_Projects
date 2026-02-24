@@ -1,0 +1,80 @@
+1.import data ( In transform data)
+
+# Customer data 
+- Trimmed all the text columns 
+- Extract year, month name, quarter and converted them to text.
+- Extract Domain names from email id of customers.
+
+# Product data
+- Trimmed all the text columns 
+- Extract year ,month name, quarter and converted them to text.
+
+# Order data
+- Trimmed all the text columns 
+- Extract year ,month name ,quarter , name day and converted them to text.
+
+# Important: created a relations between three tables in model between customer id from customer table with customer id in sales table , product id from product table with product id from sales table.
+
+2.CUSTOMER ANALYSIS
+
+- Created a measure as Total customers using count.
+- Created a measure as total unique domains using distinct count Dax.
+- visuals: - created card for gender ,loyalty tier , Number of customers.
+- visuals: - created stacked bar chart for region.
+- visuals: - created stacked bar chart for quarters.
+- visuals: - created area chart for year wise customers.
+- visuals: - created stacked bar chart for month wise.
+
+3.PRODUCT ANALYSIS
+- Created a measure as Total products using count.
+- Created a measure as total suppliers using count.
+
+- visuals: - created card for Products and suppliers 
+- visuals: - created stacked bar chart for quarters wise products.
+- visuals: - created pie chart for year wise products.
+- visuals: - created stacked bar chart for month wise.
+- visuals: - used table visual for supplier and product name.
+
+
+
+4.ORDERS ANALYSIS
+
+-- Note : Am not creating any visual or measure for Order year, order month , order quarter ,order day as my data consists of same day for every order id.
+
+- created measure for quantity , unit price , discount as total and avg for each.
+- created a measure for total gross sale and total net sale.
+- created total orders as a measure.
+- created discount avg rate in a card.
+- visuals: - created bar graph for Delivery status and Payment Method.
+- visuals: - created area graph for a regions.
+
+
+5.FINAL DASHBOARD
+- IMPORTANT : All customer and product cards use CALCULATE with TREATAS to get the correct value from the dimension table based on the selected Order ID in Sales.
+- CREATED A CARDS FOR EMAIL ID , GENDER , LOYALTY TIER , SIGNUP DATE.
+- CREATED CARDS FOR PRODUCT NAME , CATEGORY , BASE PRICE , LAUNCH DATE , SUPPLIER CODE.
+---------------------------------------------------
+- CREATED CARDS FOR UNIT PRICE , QUANTITY , GROSS SALES , NET SALES , ORDER DATE , DELIVERY STATUS , PAYMENT METHOD.
+
+
+6.INSIGHTS 
+
+--- CUSTOMERS
+- Females (50%) lead, males (34%) follow, and 16% are unknown.
+- Most customers are from 2024 (about 54%), followed by 2025 (about 46%).
+- October has the highest number, followed by August and November, then December, with the lowest in April and June.
+- Gold leads with 53%, followed by Silver 23% and Bronze 23%
+- The East region has the most customers, while the Central region has the fewest.
+- Q4 has the highest number, while Q2 has the lowest.
+
+--- PRODUCTS
+- April and August have the highest product counts, while December, January, and June have the lowest.
+- Q3 had the highest product count, while Q4 had the lowest.
+- TOTAL 30 SUPPLIERS WERE THERE.
+
+--- ORDERS
+- Order Status: Delivered 41%, Delayed 40%, Cancelled 19%
+- Payment Method: Credit Card 49%, Bank Transfer 26%, PayPal 25%
+- Orders by Region: North 20%, South 20% (approx), Others 60% (if any)
+- Average Discount Rate: 10%
+- Average Quantity per Order: 3 items
