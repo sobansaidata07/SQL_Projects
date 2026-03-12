@@ -1,0 +1,1001 @@
+O_No,order_id,customer_id,order_date,ship_date,days_taken_ship,ship_mode,country,city,state,postal_code,region
+1,CA-2014-100006,DK-13375,2014-09-07,2014-09-13,6,"Standard Class","United States","New York City","New York",10024,East
+2,CA-2014-100090,EB-13705,2014-07-08,2014-07-12,4,"Standard Class","United States","San Francisco",California,94122,West
+3,CA-2014-100293,NF-18475,2014-03-14,2014-03-18,4,"Standard Class","United States",Jacksonville,Florida,32216,South
+4,CA-2014-100363,JM-15655,2014-04-08,2014-04-15,7,"Standard Class","United States",Glendale,Arizona,85301,West
+5,CA-2014-100391,BW-11065,2014-05-25,2014-05-29,4,"Standard Class","United States","New York City","New York",10035,East
+6,CA-2014-100678,KM-16720,2014-04-18,2014-04-22,4,"Standard Class","United States",Houston,Texas,77095,Central
+7,CA-2014-100706,LE-16810,2014-12-16,2014-12-18,2,"Second Class","United States",Springfield,Virginia,22153,South
+8,CA-2014-100762,NG-18355,2014-11-24,2014-11-29,5,"Standard Class","United States",Jackson,Michigan,49201,Central
+9,CA-2014-100860,CS-12505,2014-03-26,2014-03-30,4,"Second Class","United States",Pomona,California,91767,West
+10,CA-2014-100867,EH-14125,2014-10-19,2014-10-24,5,"Standard Class","United States",Lakewood,California,90712,West
+11,CA-2014-100881,DR-12940,2014-03-28,2014-04-01,4,"Standard Class","United States",Albuquerque,"New Mexico",87105,West
+12,CA-2014-100895,SV-20785,2014-06-02,2014-06-06,4,"Standard Class","United States",Roswell,Georgia,30076,South
+13,CA-2014-100916,FH-14275,2014-10-21,2014-10-26,5,"Standard Class","United States","Newport News",Virginia,23602,South
+14,CA-2014-100972,DB-13360,2014-11-19,2014-11-24,5,"Second Class","United States","Salt Lake City",Utah,84106,West
+15,CA-2014-101147,MC-17575,2014-12-02,2014-12-04,2,"First Class","United States",Chicago,Illinois,60623,Central
+16,CA-2014-101175,DM-12955,2014-12-09,2014-12-14,5,"Standard Class","United States",Mesa,Arizona,85204,West
+17,CA-2014-101266,MM-17920,2014-08-27,2014-08-30,3,"Second Class","United States",Springfield,Virginia,22153,South
+18,CA-2014-101364,TW-21025,2014-12-22,2014-12-26,4,"Standard Class","United States","New York City","New York",10011,East
+19,CA-2014-101392,AS-10630,2014-12-07,2014-12-13,6,"Standard Class","United States",Seattle,Washington,98103,West
+20,CA-2014-101427,AY-10555,2014-12-26,2014-12-30,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+21,CA-2014-101462,BP-11230,2014-04-20,2014-04-25,5,"Standard Class","United States","Los Angeles",California,90045,West
+22,CA-2014-101476,SD-20485,2014-09-12,2014-09-13,1,"First Class","United States","New Rochelle","New York",10801,East
+23,CA-2014-101560,CS-12250,2014-11-28,2014-12-01,3,"Second Class","United States",Columbia,"South Carolina",29203,South
+24,CA-2014-101602,MC-18100,2014-12-15,2014-12-18,3,"First Class","United States","El Paso",Texas,79907,Central
+25,CA-2014-101770,KB-16240,2014-03-31,2014-04-04,4,"Standard Class","United States",Miami,Florida,33180,South
+26,CA-2014-101833,FG-14260,2014-11-17,2014-11-22,5,"Second Class","United States","New York City","New York",10024,East
+27,CA-2014-101931,TS-21370,2014-10-28,2014-10-31,3,"First Class","United States","Los Angeles",California,90049,West
+28,CA-2014-102008,RA-19915,2014-09-30,2014-10-04,4,"Standard Class","United States","New York City","New York",10011,East
+29,CA-2014-102085,JD-16015,2014-10-04,2014-10-09,5,"Standard Class","United States",Seattle,Washington,98115,West
+30,CA-2014-102274,DH-13075,2014-11-21,2014-11-26,5,"Standard Class","United States",Richmond,Kentucky,40475,South
+31,CA-2014-102295,EH-13990,2014-11-24,2014-11-26,2,"Second Class","United States",Sacramento,California,95823,West
+32,CA-2014-102330,AI-10855,2014-12-29,2015-01-03,5,"Standard Class","United States",Brentwood,California,94513,West
+33,CA-2014-102645,IM-15055,2014-01-23,2014-01-28,5,"Standard Class","United States","Las Vegas",Nevada,89115,West
+34,CA-2014-102652,AY-10555,2014-04-06,2014-04-12,6,"Standard Class","United States","Los Angeles",California,90049,West
+35,CA-2014-102673,KH-16630,2014-11-01,2014-11-05,4,"Standard Class","United States",Charlotte,"North Carolina",28205,South
+36,CA-2014-102869,LC-17140,2014-09-09,2014-09-14,5,"Second Class","United States",Philadelphia,Pennsylvania,19140,East
+37,CA-2014-102988,GM-14695,2014-04-05,2014-04-09,4,"Second Class","United States",Alexandria,Virginia,22304,South
+38,CA-2014-103058,AG-10270,2014-07-23,2014-07-24,1,"First Class","United States","New York City","New York",10011,East
+39,CA-2014-103086,EB-14170,2014-10-17,2014-10-19,2,"Second Class","United States",Houston,Texas,77095,Central
+40,CA-2014-103100,AB-10105,2014-12-20,2014-12-23,3,"First Class","United States",Indianapolis,Indiana,46203,Central
+41,CA-2014-103191,VG-21805,2014-09-22,2014-09-27,5,"Standard Class","United States",Chicago,Illinois,60653,Central
+42,CA-2014-103219,BF-11215,2014-11-09,2014-11-13,4,"Standard Class","United States","New York City","New York",10035,East
+43,CA-2014-103310,GM-14680,2014-05-10,2014-05-15,5,"Standard Class","United States","San Jose",California,95123,West
+44,CA-2014-103317,DM-13525,2014-07-05,2014-07-08,3,"First Class","United States","Palm Coast",Florida,32137,South
+45,CA-2014-103331,KB-16315,2014-08-26,2014-09-01,6,"Standard Class","United States",Newark,Delaware,19711,East
+46,CA-2014-103366,EH-13990,2014-01-15,2014-01-17,2,"First Class","United States",Roswell,Georgia,30076,South
+47,CA-2014-103373,BS-11755,2014-05-18,2014-05-24,6,"Standard Class","United States",Cleveland,Ohio,44105,East
+48,CA-2014-103401,GR-14560,2014-11-21,2014-11-26,5,"Standard Class","United States","San Francisco",California,94110,West
+49,CA-2014-103429,LW-16825,2014-05-30,2014-06-01,2,"First Class","United States","New York City","New York",10024,East
+50,CA-2014-103492,CM-12715,2014-10-10,2014-10-15,5,"Standard Class","United States",Huntsville,Texas,77340,Central
+51,CA-2014-103590,JL-15505,2014-11-30,2014-12-04,4,"Standard Class","United States","Mount Vernon","New York",10550,East
+52,CA-2014-103660,MW-18220,2014-08-25,2014-08-30,5,"Standard Class","United States",Seattle,Washington,98103,West
+53,CA-2014-103702,AF-10885,2014-09-12,2014-09-17,5,"Standard Class","United States",Fairfield,Ohio,45014,East
+54,CA-2014-103744,MG-17875,2014-02-23,2014-02-27,4,"Standard Class","United States","El Paso",Texas,79907,Central
+55,CA-2014-103807,EM-13825,2014-12-02,2014-12-09,7,"Standard Class","United States","Sandy Springs",Georgia,30328,South
+56,CA-2014-103849,PG-18895,2014-05-11,2014-05-16,5,"Standard Class","United States","Fort Worth",Texas,76106,Central
+57,CA-2014-103940,BN-11515,2014-09-17,2014-09-21,4,"Standard Class","United States",Seattle,Washington,98103,West
+58,CA-2014-103989,MC-17605,2014-03-19,2014-03-21,2,"First Class","United States",Lakeland,Florida,33801,South
+59,CA-2014-104178,JM-15265,2014-08-25,2014-08-29,4,"Standard Class","United States","Los Angeles",California,90036,West
+60,CA-2014-104269,DB-13060,2014-03-01,2014-03-06,5,"Second Class","United States",Seattle,Washington,98115,West
+61,CA-2014-104283,LM-17065,2014-06-27,2014-07-01,4,"Standard Class","United States",Southaven,Mississippi,38671,South
+62,CA-2014-104402,DB-13660,2014-06-17,2014-06-23,6,"Standard Class","United States",Newark,Delaware,19711,East
+63,CA-2014-104472,CK-12325,2014-06-02,2014-06-07,5,"Standard Class","United States",Orem,Utah,84057,West
+64,CA-2014-104563,CM-12715,2014-03-07,2014-03-12,5,"Standard Class","United States",Seattle,Washington,98103,West
+65,CA-2014-104738,SP-20620,2014-12-30,2015-01-01,2,"Second Class","United States",Laredo,Texas,78041,Central
+66,CA-2014-104773,TB-21175,2014-12-08,2014-12-13,5,"Standard Class","United States",Houston,Texas,77041,Central
+67,CA-2014-104780,BT-11530,2014-05-21,2014-05-25,4,"Standard Class","United States","San Diego",California,92037,West
+68,CA-2014-104808,MH-17440,2014-02-04,2014-02-08,4,"Second Class","United States",Escondido,California,92025,West
+69,CA-2014-104829,JG-15805,2014-11-18,2014-11-21,3,"Second Class","United States",Provo,Utah,84604,West
+70,CA-2014-104976,CK-12760,2014-12-09,2014-12-16,7,"Standard Class","United States","San Francisco",California,94122,West
+71,CA-2014-105165,SZ-20035,2014-09-07,2014-09-10,3,"First Class","United States",Houston,Texas,77036,Central
+72,CA-2014-105172,PK-18910,2014-04-04,2014-04-09,5,"Standard Class","United States","San Francisco",California,94109,West
+73,CA-2014-105249,DH-13675,2014-11-28,2014-11-28,0,"Same Day","United States","San Francisco",California,94122,West
+74,CA-2014-105270,AP-10915,2014-11-11,2014-11-18,7,"Standard Class","United States","Los Angeles",California,90008,West
+75,CA-2014-105340,EH-14185,2014-11-22,2014-11-25,3,"First Class","United States",Pasadena,Texas,77506,Central
+76,CA-2014-105417,VS-21820,2014-01-07,2014-01-12,5,"Standard Class","United States",Huntsville,Texas,77340,Central
+77,CA-2014-105648,EJ-14155,2014-03-03,2014-03-07,4,"Standard Class","United States","San Diego",California,92037,West
+78,CA-2014-105872,JG-15160,2014-05-30,2014-06-06,7,"Standard Class","United States","New York City","New York",10024,East
+79,CA-2014-105893,PK-19075,2014-11-11,2014-11-18,7,"Standard Class","United States",Madison,Wisconsin,53711,Central
+80,CA-2014-105984,MY-18295,2014-11-24,2014-11-24,0,"Same Day","United States",Columbus,Ohio,43229,East
+81,CA-2014-106054,JO-15145,2014-01-06,2014-01-07,1,"First Class","United States",Athens,Georgia,30605,South
+82,CA-2014-106229,NR-18550,2014-06-07,2014-06-11,4,"Second Class","United States",Aurora,Illinois,60505,Central
+83,CA-2014-106264,CK-12595,2014-12-26,2014-12-30,4,"Standard Class","United States","San Diego",California,92024,West
+84,CA-2014-106376,BS-11590,2014-12-05,2014-12-10,5,"Standard Class","United States",Gilbert,Arizona,85234,West
+85,CA-2014-106439,GG-14650,2014-10-31,2014-11-04,4,"Standard Class","United States","Los Angeles",California,90049,West
+86,CA-2014-106572,NP-18700,2014-09-05,2014-09-10,5,"Standard Class","United States","Bowling Green",Ohio,43402,East
+87,CA-2014-106719,RB-19645,2014-08-24,2014-08-24,0,"Same Day","United States",Billings,Montana,59102,West
+88,CA-2014-106726,RS-19765,2014-12-06,2014-12-08,2,"First Class","United States","Los Angeles",California,90008,West
+89,CA-2014-106803,DC-13285,2014-12-29,2015-01-02,4,"Standard Class","United States","Cottage Grove",Minnesota,55016,Central
+90,CA-2014-106810,AJ-10795,2014-05-14,2014-05-20,6,"Standard Class","United States","Saint Petersburg",Florida,33710,South
+91,CA-2014-106971,BM-11785,2014-09-02,2014-09-08,6,"Standard Class","United States","Buffalo Grove",Illinois,60089,Central
+92,CA-2014-107139,DP-13390,2014-07-05,2014-07-11,6,"Standard Class","United States","Los Angeles",California,90004,West
+93,CA-2014-107153,GZ-14545,2014-09-28,2014-10-03,5,"Standard Class","United States",Lawrence,Massachusetts,1841,East
+94,CA-2014-107181,DB-13270,2014-02-04,2014-02-08,4,"Standard Class","United States","San Diego",California,92024,West
+95,CA-2014-107398,BS-11590,2014-08-25,2014-08-30,5,"Standard Class","United States",Columbus,Ohio,43229,East
+96,CA-2014-107454,RD-19720,2014-11-02,2014-11-06,4,"Standard Class","United States","New York City","New York",10024,East
+97,CA-2014-107524,KN-16705,2014-03-02,2014-03-08,6,"Standard Class","United States","New York City","New York",10009,East
+98,CA-2014-107573,PB-19150,2014-12-12,2014-12-17,5,"Standard Class","United States",Miami,Florida,33178,South
+99,CA-2014-107594,EH-13945,2014-07-02,2014-07-06,4,"Standard Class","United States",Plainfield,"New Jersey",7060,East
+100,CA-2014-107706,ST-20530,2014-02-14,2014-02-19,5,"Second Class","United States",Houston,Texas,77095,Central
+101,CA-2014-107755,CK-12760,2014-02-07,2014-02-12,5,"Standard Class","United States",Linden,"New Jersey",7036,East
+102,CA-2014-107769,BT-11395,2014-10-28,2014-11-01,4,"Standard Class","United States","Garden City",Kansas,67846,Central
+103,CA-2014-107811,LA-16780,2014-04-29,2014-05-03,4,"Standard Class","United States",Memphis,Tennessee,38109,South
+104,CA-2014-107818,MC-17275,2014-09-08,2014-09-14,6,"Standard Class","United States",Pasco,Washington,99301,West
+105,CA-2014-107916,JP-15460,2014-08-24,2014-08-26,2,"First Class","United States",Oceanside,"New York",11572,East
+106,CA-2014-108147,RD-19480,2014-06-08,2014-06-13,5,"Standard Class","United States","Long Beach","New York",11561,East
+107,CA-2014-108182,DL-13315,2014-02-06,2014-02-10,4,"Second Class","United States",Romeoville,Illinois,60441,Central
+108,CA-2014-108189,ES-14080,2014-10-02,2014-10-05,3,"First Class","United States",Tempe,Arizona,85281,West
+109,CA-2014-108273,EJ-13720,2014-12-16,2014-12-21,5,"Standard Class","United States",Huntsville,Texas,77340,Central
+110,CA-2014-108609,AJ-10780,2014-10-31,2014-11-02,2,"Second Class","United States",Lorain,Ohio,44052,East
+111,CA-2014-108707,DB-12910,2014-10-24,2014-10-29,5,"Standard Class","United States","Fort Lauderdale",Florida,33311,South
+112,CA-2014-108861,MM-17260,2014-05-28,2014-06-01,4,"Standard Class","United States",Seattle,Washington,98105,West
+113,CA-2014-108903,DO-13435,2014-10-03,2014-10-03,0,"Same Day","United States",Columbus,Ohio,43229,East
+114,CA-2014-109043,CS-12355,2014-08-15,2014-08-17,2,"First Class","United States",Hollywood,Florida,33021,South
+115,CA-2014-109127,JC-15775,2014-12-21,2014-12-25,4,"Standard Class","United States",Newark,Delaware,19711,East
+116,CA-2014-109134,DE-13255,2014-11-05,2014-11-10,5,"Standard Class","United States","Los Angeles",California,90008,West
+117,CA-2014-109218,AR-10825,2014-06-30,2014-07-03,3,"Second Class","United States","Los Angeles",California,90004,West
+118,CA-2014-109232,ND-18370,2014-01-13,2014-01-16,3,"Second Class","United States","Mount Pleasant","South Carolina",29464,South
+119,CA-2014-109302,CS-12175,2014-08-12,2014-08-16,4,"Standard Class","United States",Lakewood,"New Jersey",8701,East
+120,CA-2014-109491,LC-16930,2014-02-20,2014-02-26,6,"Standard Class","United States",Richmond,Indiana,47374,Central
+121,CA-2014-109680,VP-21760,2014-10-06,2014-10-09,3,"First Class","United States",Indianapolis,Indiana,46203,Central
+122,CA-2014-109855,LH-16900,2014-09-01,2014-09-05,4,"Standard Class","United States","New York City","New York",10009,East
+123,CA-2014-109890,PG-18820,2014-07-21,2014-07-27,6,"Standard Class","United States",Omaha,Nebraska,68104,Central
+124,CA-2014-109897,BW-11200,2014-08-12,2014-08-16,4,"Standard Class","United States","San Francisco",California,94122,West
+125,CA-2014-109904,BF-10975,2014-07-14,2014-07-17,3,"Second Class","United States","New York City","New York",10009,East
+126,CA-2014-109918,LR-17035,2014-09-07,2014-09-12,5,"Second Class","United States","Santa Clara",California,95051,West
+127,CA-2014-109932,VP-21760,2014-12-09,2014-12-11,2,"First Class","United States",Brownsville,Texas,78521,Central
+128,CA-2014-110030,LF-17185,2014-12-06,2014-12-08,2,"Second Class","United States",Houston,Texas,77095,Central
+129,CA-2014-110065,SP-20650,2014-08-05,2014-08-11,6,"Standard Class","United States","New York City","New York",10009,East
+130,CA-2014-110072,MG-17680,2014-10-22,2014-10-28,6,"Standard Class","United States",Newark,Ohio,43055,East
+131,CA-2014-110100,LC-16885,2014-04-25,2014-04-29,4,"Standard Class","United States",Wilmington,"North Carolina",28403,South
+132,CA-2014-110184,BF-11170,2014-07-12,2014-07-16,4,"Standard Class","United States","Los Angeles",California,90036,West
+133,CA-2014-110219,EB-13870,2014-05-05,2014-05-08,3,"First Class","United States","San Antonio",Texas,78207,Central
+134,CA-2014-110352,ED-13885,2014-11-23,2014-11-29,6,"Standard Class","United States",Houston,Texas,77036,Central
+135,CA-2014-110408,AS-10225,2014-10-18,2014-10-20,2,"Second Class","United States",Montgomery,Alabama,36116,South
+136,CA-2014-110422,TB-21400,2014-01-21,2014-01-23,2,"Second Class","United States",Miami,Florida,33180,South
+137,CA-2014-110527,ED-13885,2014-08-09,2014-08-16,7,"Standard Class","United States","San Diego",California,92037,West
+138,CA-2014-110555,MM-18055,2014-04-11,2014-04-18,7,"Standard Class","United States","Great Falls",Montana,59405,West
+139,CA-2014-110611,JD-16015,2014-10-06,2014-10-13,7,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+140,CA-2014-110639,RH-19495,2014-08-23,2014-08-23,0,"Same Day","United States","New York City","New York",10009,East
+141,CA-2014-110786,AJ-10795,2014-12-29,2015-01-02,4,"Standard Class","United States","San Francisco",California,94110,West
+142,CA-2014-110849,JL-15835,2014-04-18,2014-04-23,5,"Standard Class","United States","Los Angeles",California,90049,West
+143,CA-2014-111003,CR-12625,2014-06-01,2014-06-06,5,"Standard Class","United States",Lakewood,"New Jersey",8701,East
+144,CA-2014-111059,TB-21400,2014-02-03,2014-02-06,3,"Second Class","United States",Seattle,Washington,98105,West
+145,CA-2014-111150,RW-19630,2014-12-31,2015-01-04,4,"Standard Class","United States",Columbia,Missouri,65203,Central
+146,CA-2014-111157,NH-18610,2014-03-02,2014-03-06,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+147,CA-2014-111192,TS-21430,2014-07-30,2014-08-05,6,"Standard Class","United States",Seattle,Washington,98103,West
+148,CA-2014-111360,AT-10435,2014-11-24,2014-11-30,6,"Standard Class","United States",Akron,Ohio,44312,East
+149,CA-2014-111451,KL-16555,2014-12-26,2014-12-28,2,"First Class","United States","Colorado Springs",Colorado,80906,West
+150,CA-2014-111500,DJ-13510,2014-08-17,2014-08-21,4,"Standard Class","United States","Little Rock",Arkansas,72209,South
+151,CA-2014-111773,JK-15625,2014-06-29,2014-07-03,4,"Standard Class","United States","New York City","New York",10024,East
+152,CA-2014-111857,NM-18445,2014-04-23,2014-04-26,3,"Second Class","United States","San Francisco",California,94109,West
+153,CA-2014-111871,EK-13795,2014-03-18,2014-03-21,3,"Second Class","United States","San Francisco",California,94110,West
+154,CA-2014-111899,NC-18340,2014-05-04,2014-05-05,1,"First Class","United States",Houston,Texas,77036,Central
+155,CA-2014-111934,GD-14590,2014-05-05,2014-05-07,2,"First Class","United States",Arlington,Virginia,22204,South
+156,CA-2014-111962,EB-14170,2014-09-29,2014-10-04,5,"Standard Class","United States",Seattle,Washington,98115,West
+157,CA-2014-112158,DP-13165,2014-12-02,2014-12-04,2,"First Class","United States","New York City","New York",10035,East
+158,CA-2014-112291,KE-16420,2014-04-03,2014-04-08,5,"Standard Class","United States","Los Angeles",California,90008,West
+159,CA-2014-112326,PO-19195,2014-01-04,2014-01-08,4,"Standard Class","United States",Naperville,Illinois,60540,Central
+160,CA-2014-112403,JO-15280,2014-03-31,2014-03-31,0,"Same Day","United States",Philadelphia,Pennsylvania,19120,East
+161,CA-2014-112718,KN-16450,2014-12-16,2014-12-21,5,"Standard Class","United States",Jacksonville,Florida,32216,South
+162,CA-2014-112837,LW-17125,2014-09-11,2014-09-16,5,"Standard Class","United States",Oxnard,California,93030,West
+163,CA-2014-113047,AP-10915,2014-10-24,2014-10-24,0,"Same Day","United States","Rock Hill","South Carolina",29730,South
+164,CA-2014-113166,LF-17185,2014-12-24,2014-12-26,2,"First Class","United States",Miami,Florida,33180,South
+165,CA-2014-113257,SC-20305,2014-12-16,2014-12-18,2,"Second Class","United States",Beaumont,Texas,77705,Central
+166,CA-2014-113271,DS-13030,2014-07-09,2014-07-14,5,"Standard Class","United States","San Francisco",California,94122,West
+167,CA-2014-113320,LH-17155,2014-12-12,2014-12-15,3,"Second Class","United States",Oakland,California,94601,West
+168,CA-2014-113362,AJ-10960,2014-09-14,2014-09-19,5,"Standard Class","United States",Rochester,"New York",14609,East
+169,CA-2014-113383,SF-20065,2014-09-10,2014-09-13,3,"First Class","United States",Clifton,"New Jersey",7011,East
+170,CA-2014-113579,KD-16345,2014-12-13,2014-12-15,2,"Second Class","United States","Los Angeles",California,90049,West
+171,CA-2014-113768,AH-10030,2014-05-13,2014-05-19,6,"Standard Class","United States","Los Angeles",California,90004,West
+172,CA-2014-113859,BC-11125,2014-09-13,2014-09-17,4,"Standard Class","United States",Odessa,Texas,79762,Central
+173,CA-2014-113880,VF-21715,2014-03-01,2014-03-05,4,"Standard Class","United States",Elmhurst,Illinois,60126,Central
+174,CA-2014-113887,TH-21550,2014-04-05,2014-04-07,2,"First Class","United States","New York City","New York",10035,East
+175,CA-2014-113929,CK-12205,2014-06-16,2014-06-21,5,"Standard Class","United States",Hempstead,"New York",11550,East
+176,CA-2014-113964,JP-16135,2014-09-23,2014-09-30,7,"Standard Class","United States","New York City","New York",10011,East
+177,CA-2014-114125,GH-14410,2014-07-09,2014-07-13,4,"Standard Class","United States","Los Angeles",California,90049,West
+178,CA-2014-114181,AF-10885,2014-05-10,2014-05-14,4,"Second Class","United States",Philadelphia,Pennsylvania,19134,East
+179,CA-2014-114195,EA-14035,2014-11-01,2014-11-03,2,"First Class","United States",Mason,Ohio,45040,East
+180,CA-2014-114251,MD-17350,2014-11-05,2014-11-10,5,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+181,CA-2014-114314,DB-13555,2014-10-11,2014-10-15,4,"Standard Class","United States",Fayetteville,Arkansas,72701,South
+182,CA-2014-114321,NC-18535,2014-08-20,2014-08-25,5,"Standard Class","United States",Hampton,Virginia,23666,South
+183,CA-2014-114335,XP-21865,2014-09-28,2014-10-03,5,"Standard Class","United States",Hollywood,Florida,33021,South
+184,CA-2014-114433,NP-18325,2014-05-13,2014-05-17,4,"Standard Class","United States",Oakland,California,94601,West
+185,CA-2014-114510,JF-15295,2014-03-14,2014-03-19,5,"Standard Class","United States",Logan,Utah,84321,West
+186,CA-2014-114517,TH-21235,2014-12-23,2014-12-27,4,"Standard Class","United States","New York City","New York",10024,East
+187,CA-2014-114643,FM-14215,2014-06-13,2014-06-17,4,"Standard Class","United States","Los Angeles",California,90032,West
+188,CA-2014-114790,FM-14215,2014-03-11,2014-03-13,2,"Second Class","United States",Richmond,Kentucky,40475,South
+189,CA-2014-115049,MM-17920,2014-09-26,2014-10-01,5,"Standard Class","United States",Chicago,Illinois,60623,Central
+190,CA-2014-115056,AR-10510,2014-05-02,2014-05-02,0,"Same Day","United States",Columbus,Ohio,43229,East
+191,CA-2014-115084,LS-17200,2014-10-18,2014-10-22,4,"Standard Class","United States",Texarkana,Arkansas,71854,South
+192,CA-2014-115133,DA-13450,2014-09-26,2014-09-30,4,"Standard Class","United States",Lancaster,Ohio,43130,East
+193,CA-2014-115161,LC-17050,2014-01-31,2014-02-02,2,"First Class","United States","Mission Viejo",California,92691,West
+194,CA-2014-115259,RC-19960,2014-08-25,2014-08-27,2,"Second Class","United States",Columbus,Ohio,43229,East
+195,CA-2014-115336,AB-10600,2014-11-18,2014-11-25,7,"Standard Class","United States",Chicago,Illinois,60623,Central
+196,CA-2014-115357,RF-19735,2014-08-06,2014-08-11,5,"Second Class","United States",Columbia,"South Carolina",29203,South
+197,CA-2014-115791,DL-13315,2014-01-16,2014-01-18,2,"Second Class","United States",Philadelphia,Pennsylvania,19134,East
+198,CA-2014-115812,BH-11710,2014-06-09,2014-06-14,5,"Standard Class","United States","Los Angeles",California,90032,West
+199,CA-2014-115889,SH-20395,2014-11-02,2014-11-06,4,"Standard Class","United States","San Francisco",California,94122,West
+200,CA-2014-115973,NG-18430,2014-11-24,2014-11-26,2,"First Class","United States",Cincinnati,Ohio,45231,East
+201,CA-2014-115980,VW-21775,2014-07-15,2014-07-19,4,"Standard Class","United States","Sioux Falls","South Dakota",57103,Central
+202,CA-2014-116190,SG-20470,2014-07-26,2014-08-01,6,"Standard Class","United States",Atlanta,Georgia,30318,South
+203,CA-2014-116239,CL-12565,2014-03-04,2014-03-04,0,"Same Day","United States",Columbia,"South Carolina",29203,South
+204,CA-2014-116246,LW-17215,2014-09-12,2014-09-17,5,"Second Class","United States","New York City","New York",10035,East
+205,CA-2014-116407,JF-15190,2014-11-15,2014-11-21,6,"Standard Class","United States","Johnson City",Tennessee,37604,South
+206,CA-2014-116568,BM-11785,2014-12-14,2014-12-20,6,"Standard Class","United States",Deltona,Florida,32725,South
+207,CA-2014-116666,KT-16480,2014-05-08,2014-05-10,2,"First Class","United States",Philadelphia,Pennsylvania,19134,East
+208,CA-2014-116673,JO-15280,2014-12-15,2014-12-19,4,"Second Class","United States","San Diego",California,92037,West
+209,CA-2014-116757,MS-17980,2014-06-30,2014-07-04,4,"Standard Class","United States",Houston,Texas,77095,Central
+210,CA-2014-116785,MH-17290,2014-04-26,2014-04-30,4,"Standard Class","United States","Los Angeles",California,90036,West
+211,CA-2014-116834,Dp-13240,2014-10-11,2014-10-16,5,"Standard Class","United States",Seattle,Washington,98115,West
+212,CA-2014-116904,SC-20095,2014-09-23,2014-09-28,5,"Standard Class","United States",Minneapolis,Minnesota,55407,Central
+213,CA-2014-116932,ME-18010,2014-07-21,2014-07-25,4,"Standard Class","United States","San Francisco",California,94122,West
+214,CA-2014-117016,SC-20095,2014-03-04,2014-03-09,5,"Standard Class","United States",Margate,Florida,33063,South
+215,CA-2014-117317,JF-15490,2014-10-19,2014-10-19,0,"Same Day","United States","Los Angeles",California,90032,West
+216,CA-2014-117345,BF-10975,2014-08-01,2014-08-05,4,"Standard Class","United States",Charlotte,"North Carolina",28205,South
+217,CA-2014-117429,MR-17545,2014-10-07,2014-10-13,6,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+218,CA-2014-117464,NP-18325,2014-07-22,2014-07-24,2,"Second Class","United States","San Francisco",California,94122,West
+219,CA-2014-117478,LH-16750,2014-09-21,2014-09-24,3,"First Class","United States",Philadelphia,Pennsylvania,19140,East
+220,CA-2014-117639,MW-18235,2014-05-21,2014-05-25,4,"Standard Class","United States","Virginia Beach",Virginia,23464,South
+221,CA-2014-117709,PM-18940,2014-05-04,2014-05-08,4,"Standard Class","United States",Jackson,Michigan,49201,Central
+222,CA-2014-117765,RB-19465,2014-09-07,2014-09-13,6,"Standard Class","United States",Tulsa,Oklahoma,74133,Central
+223,CA-2014-118192,MM-17920,2014-01-13,2014-01-18,5,"Standard Class","United States",Newark,Ohio,43055,East
+224,CA-2014-118276,MG-17890,2014-12-29,2015-01-02,4,"Standard Class","United States","Saint Charles",Illinois,60174,Central
+225,CA-2014-118304,KH-16360,2014-04-29,2014-05-04,5,"Standard Class","United States",Dover,Delaware,19901,East
+226,CA-2014-118339,BN-11515,2014-03-17,2014-03-24,7,"Standard Class","United States",Lakeville,Minnesota,55044,Central
+227,CA-2014-118962,CS-12130,2014-08-05,2014-08-09,4,"Standard Class","United States","Los Angeles",California,90004,West
+228,CA-2014-118976,MY-18295,2014-04-28,2014-05-03,5,"Standard Class","United States",Baltimore,Maryland,21215,East
+229,CA-2014-119032,MS-17770,2014-11-27,2014-12-03,6,"Standard Class","United States","New York City","New York",10035,East
+230,CA-2014-119144,JD-16150,2014-11-16,2014-11-18,2,"First Class","United States","Los Angeles",California,90008,West
+231,CA-2014-119151,MP-18175,2014-11-25,2014-11-29,4,"Second Class","United States","New York City","New York",10009,East
+232,CA-2014-119172,HD-14785,2014-05-11,2014-05-15,4,"Standard Class","United States",Chicago,Illinois,60610,Central
+233,CA-2014-119375,YC-21895,2014-11-17,2014-11-22,5,"Standard Class","United States",Newark,Delaware,19711,East
+234,CA-2014-119466,SP-20860,2014-12-15,2014-12-21,6,"Standard Class","United States",Chicago,Illinois,60623,Central
+235,CA-2014-119529,DM-13345,2014-11-03,2014-11-05,2,"Second Class","United States",Orange,"New Jersey",7050,East
+236,CA-2014-119977,DN-13690,2014-10-08,2014-10-13,5,"Second Class","United States","New York City","New York",10011,East
+237,CA-2014-120096,KE-16420,2014-07-04,2014-07-07,3,"First Class","United States",Aurora,Colorado,80013,West
+238,CA-2014-120243,AT-10435,2014-12-27,2014-12-30,3,"Second Class","United States","Los Angeles",California,90004,West
+239,CA-2014-120278,MS-17365,2014-11-07,2014-11-12,5,"Standard Class","United States",Wausau,Wisconsin,54401,Central
+240,CA-2014-120411,SB-20185,2014-09-20,2014-09-23,3,"First Class","United States",Chicago,Illinois,60653,Central
+241,CA-2014-120432,DW-13585,2014-08-24,2014-08-26,2,"Second Class","United States",Owensboro,Kentucky,42301,South
+242,CA-2014-120474,RP-19390,2014-12-01,2014-12-03,2,"First Class","United States",Madison,Wisconsin,53711,Central
+243,CA-2014-120544,SS-20140,2014-11-23,2014-11-27,4,"Standard Class","United States",Mesquite,Texas,75150,Central
+244,CA-2014-120670,JK-16120,2014-11-02,2014-11-06,4,"Standard Class","United States","Fort Lauderdale",Florida,33311,South
+245,CA-2014-120768,IM-15070,2014-12-19,2014-12-21,2,"Second Class","United States",Florence,Alabama,35630,South
+246,CA-2014-120775,RD-19930,2014-10-03,2014-10-07,4,"Standard Class","United States",Dallas,Texas,75217,Central
+247,CA-2014-120838,PO-18865,2014-03-23,2014-03-26,3,"Second Class","United States","Los Angeles",California,90036,West
+248,CA-2014-120852,WB-21850,2014-12-20,2014-12-25,5,"Standard Class","United States","Grand Prairie",Texas,75051,Central
+249,CA-2014-120887,TS-21205,2014-09-27,2014-10-03,6,"Standard Class","United States",Hackensack,"New Jersey",7601,East
+250,CA-2014-120950,GA-14515,2014-11-06,2014-11-11,5,"Standard Class","United States",Columbus,Georgia,31907,South
+251,CA-2014-121006,SC-20020,2014-11-10,2014-11-16,6,"Standard Class","United States",Midland,Michigan,48640,Central
+252,CA-2014-121167,MO-17500,2014-11-28,2014-11-30,2,"Second Class","United States",Freeport,"New York",11520,East
+253,CA-2014-121286,ON-18715,2014-11-04,2014-11-08,4,"Second Class","United States",Cary,"North Carolina",27511,South
+254,CA-2014-121573,SG-20605,2014-11-03,2014-11-07,4,"Standard Class","United States","New York City","New York",10009,East
+255,CA-2014-121629,BT-11680,2014-11-28,2014-12-02,4,"Standard Class","United States",Houston,Texas,77041,Central
+256,CA-2014-121664,HP-14815,2014-05-06,2014-05-10,4,"Standard Class","United States","Los Angeles",California,90049,West
+257,CA-2014-121727,JK-15625,2014-08-19,2014-08-24,5,"Standard Class","United States",Columbus,Ohio,43229,East
+258,CA-2014-121762,ML-17395,2014-02-14,2014-02-18,4,"Standard Class","United States",Seattle,Washington,98103,West
+259,CA-2014-121769,JS-15880,2014-04-08,2014-04-12,4,"Standard Class","United States",Toledo,Ohio,43615,East
+260,CA-2014-122070,AH-10030,2014-04-22,2014-04-24,2,"Second Class","United States",Troy,"New York",12180,East
+261,CA-2014-122217,HP-14815,2014-11-24,2014-11-29,5,"Standard Class","United States","Virginia Beach",Virginia,23464,South
+262,CA-2014-122336,JD-15895,2014-04-13,2014-04-17,4,"Second Class","United States",Philadelphia,Pennsylvania,19140,East
+263,CA-2014-122567,MN-17935,2014-02-16,2014-02-21,5,"Standard Class","United States",Dallas,Texas,75220,Central
+264,CA-2014-122588,AR-10540,2014-11-25,2014-11-27,2,"Second Class","United States",Woonsocket,"Rhode Island",2895,East
+265,CA-2014-122609,DP-13000,2014-11-12,2014-11-18,6,"Standard Class","United States",Carrollton,Texas,75007,Central
+266,CA-2014-122679,AB-10255,2014-07-22,2014-07-28,6,"Standard Class","United States","Los Angeles",California,90008,West
+267,CA-2014-122749,NG-18430,2014-12-03,2014-12-09,6,"Standard Class","United States","Oklahoma City",Oklahoma,73120,Central
+268,CA-2014-122882,SB-20290,2014-09-07,2014-09-13,6,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+269,CA-2014-122931,SM-20950,2014-09-29,2014-10-03,4,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+270,CA-2014-123064,RA-19915,2014-06-30,2014-07-02,2,"First Class","United States",Chicago,Illinois,60653,Central
+271,CA-2014-123127,SP-20620,2014-09-08,2014-09-12,4,"Standard Class","United States","Long Beach","New York",11561,East
+272,CA-2014-123225,MN-17935,2014-07-11,2014-07-14,3,"First Class","United States","El Paso",Texas,79907,Central
+273,CA-2014-123253,DE-13255,2014-08-22,2014-08-25,3,"Second Class","United States",Lakewood,Ohio,44107,East
+274,CA-2014-123260,FM-14290,2014-08-26,2014-08-30,4,"Standard Class","United States","Los Angeles",California,90032,West
+275,CA-2014-123295,AH-10120,2014-07-18,2014-07-18,0,"Same Day","United States",Tucson,Arizona,85705,West
+276,CA-2014-123316,SP-20545,2014-10-13,2014-10-17,4,"Standard Class","United States","Mount Vernon","New York",10550,East
+277,CA-2014-123323,LH-16900,2014-11-07,2014-11-12,5,"Standard Class","United States","San Francisco",California,94110,West
+278,CA-2014-123344,JD-16060,2014-09-24,2014-09-29,5,"Standard Class","United States","San Francisco",California,94109,West
+279,CA-2014-123400,EB-13930,2014-02-02,2014-02-09,7,"Standard Class","United States","Saint Petersburg",Florida,33710,South
+280,CA-2014-123477,DW-13195,2014-01-18,2014-01-21,3,"Second Class","United States",Springfield,Oregon,97477,West
+281,CA-2014-123498,TC-20980,2014-11-07,2014-11-09,2,"First Class","United States",Houston,Texas,77041,Central
+282,CA-2014-123855,MC-18100,2014-06-18,2014-06-23,5,"Standard Class","United States","Los Angeles",California,90036,West
+283,CA-2014-123925,RF-19840,2014-12-17,2014-12-19,2,"Second Class","United States",Columbus,Georgia,31907,South
+284,CA-2014-124023,PJ-19015,2014-04-07,2014-04-10,3,"First Class","United States",Mobile,Alabama,36608,South
+285,CA-2014-124079,RF-19345,2014-12-13,2014-12-17,4,"Standard Class","United States",Phoenix,Arizona,85023,West
+286,CA-2014-124247,SH-20635,2014-12-16,2014-12-21,5,"Standard Class","United States",Sacramento,California,95823,West
+287,CA-2014-124394,TB-21520,2014-10-17,2014-10-22,5,"Second Class","United States",Beaumont,Texas,77705,Central
+288,CA-2014-124429,MH-17785,2014-05-27,2014-05-27,0,"Same Day","United States","San Diego",California,92105,West
+289,CA-2014-124464,SS-20515,2014-07-14,2014-07-20,6,"Standard Class","United States",Newark,Delaware,19711,East
+290,CA-2014-124478,MA-17560,2014-08-08,2014-08-12,4,"Standard Class","United States",Trenton,Michigan,48183,Central
+291,CA-2014-124513,SL-20155,2014-09-21,2014-09-25,4,"Standard Class","United States","New York City","New York",10011,East
+292,CA-2014-124618,CS-11860,2014-05-02,2014-05-04,2,"Second Class","United States",Lakeland,Florida,33801,South
+293,CA-2014-124646,DV-13465,2014-06-22,2014-06-24,2,"First Class","United States",Minneapolis,Minnesota,55407,Central
+294,CA-2014-124688,CC-12610,2014-08-27,2014-08-29,2,"First Class","United States",Springfield,Virginia,22153,South
+295,CA-2014-124702,MH-17785,2014-11-18,2014-11-25,7,"Standard Class","United States",Seattle,Washington,98105,West
+296,CA-2014-124709,GW-14605,2014-07-27,2014-07-29,2,"Second Class","United States","San Francisco",California,94122,West
+297,CA-2014-124723,GZ-14470,2014-08-05,2014-08-12,7,"Standard Class","United States","Texas City",Texas,77590,Central
+298,CA-2014-124730,LS-17245,2014-11-26,2014-11-26,0,"Same Day","United States",Utica,"New York",13501,East
+299,CA-2014-124737,AP-10915,2014-08-23,2014-08-27,4,"Standard Class","United States",Denver,Colorado,80219,West
+300,CA-2014-124807,ME-17725,2014-07-12,2014-07-15,3,"Second Class","United States",Chicago,Illinois,60610,Central
+301,CA-2014-124856,LD-17005,2014-09-29,2014-10-03,4,"Second Class","United States","New York City","New York",10011,East
+302,CA-2014-125136,KD-16495,2014-09-28,2014-10-03,5,"Standard Class","United States",Fayetteville,"North Carolina",28314,South
+303,CA-2014-125150,PW-19030,2014-05-16,2014-05-23,7,"Standard Class","United States","Los Angeles",California,90036,West
+304,CA-2014-125171,AG-10390,2014-09-03,2014-09-03,0,"Same Day","United States","New York City","New York",10009,East
+305,CA-2014-125514,BM-11650,2014-09-21,2014-09-22,1,"First Class","United States",Omaha,Nebraska,68104,Central
+306,CA-2014-125542,NB-18655,2014-12-05,2014-12-07,2,"First Class","United States",Philadelphia,Pennsylvania,19134,East
+307,CA-2014-125556,ML-17410,2014-11-14,2014-11-16,2,"Second Class","United States",Fairfield,Connecticut,6824,East
+308,CA-2014-125612,BK-11260,2014-08-03,2014-08-08,5,"Standard Class","United States","New York City","New York",10035,East
+309,CA-2014-125682,RB-19645,2014-11-22,2014-11-25,3,"First Class","United States",Atlanta,Georgia,30318,South
+310,CA-2014-125731,CL-12565,2014-09-10,2014-09-16,6,"Standard Class","United States",Gresham,Oregon,97030,West
+311,CA-2014-125759,NM-18445,2014-02-08,2014-02-09,1,"First Class","United States","North Las Vegas",Nevada,89031,West
+312,CA-2014-125829,WB-21850,2014-11-04,2014-11-11,7,"Standard Class","United States","Los Angeles",California,90045,West
+313,CA-2014-125997,MW-18220,2014-09-20,2014-09-23,3,"First Class","United States","New York City","New York",10011,East
+314,CA-2014-126032,BS-11665,2014-06-23,2014-06-28,5,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+315,CA-2014-126193,SS-20410,2014-09-07,2014-09-14,7,"Standard Class","United States",Oswego,Illinois,60543,Central
+316,CA-2014-126200,JE-15715,2014-08-25,2014-08-29,4,"Standard Class","United States",Houston,Texas,77070,Central
+317,CA-2014-126277,LH-16900,2014-09-13,2014-09-18,5,"Second Class","United States",Columbus,Ohio,43229,East
+318,CA-2014-126333,ME-18010,2014-12-23,2014-12-28,5,"Standard Class","United States","Port Arthur",Texas,77642,Central
+319,CA-2014-126361,VD-21670,2014-08-04,2014-08-09,5,"Second Class","United States","Pleasant Grove",Utah,84062,West
+320,CA-2014-126403,RR-19525,2014-09-09,2014-09-12,3,"Second Class","United States",Lowell,Massachusetts,1852,East
+321,CA-2014-126480,HG-14965,2014-09-20,2014-09-24,4,"Standard Class","United States","San Diego",California,92024,West
+322,CA-2014-126522,LT-16765,2014-09-01,2014-09-05,4,"Second Class","United States",Escondido,California,92025,West
+323,CA-2014-126683,PP-18955,2014-09-29,2014-10-01,2,"Second Class","United States",Seattle,Washington,98115,West
+324,CA-2014-126760,KM-16720,2014-07-26,2014-08-02,7,"Standard Class","United States","North Las Vegas",Nevada,89031,West
+325,CA-2014-126802,ZC-21910,2014-12-29,2015-01-05,7,"Standard Class","United States",Chicago,Illinois,60610,Central
+326,CA-2014-126907,SM-20950,2014-11-01,2014-11-08,7,"Standard Class","United States",Chicago,Illinois,60610,Central
+327,CA-2014-126963,PS-18760,2014-06-15,2014-06-15,0,"Same Day","United States","El Paso",Texas,79907,Central
+328,CA-2014-127012,GM-14680,2014-08-11,2014-08-15,4,"Standard Class","United States",Seattle,Washington,98105,West
+329,CA-2014-127131,HR-14830,2014-11-24,2014-11-30,6,"Standard Class","United States",Seattle,Washington,98103,West
+330,CA-2014-127159,HL-15040,2014-05-12,2014-05-15,3,"First Class","United States",Milwaukee,Wisconsin,53209,Central
+331,CA-2014-127166,KH-16360,2014-05-21,2014-05-23,2,"Second Class","United States",Houston,Texas,77070,Central
+332,CA-2014-127187,CP-12085,2014-12-04,2014-12-08,4,"Standard Class","United States","New York City","New York",10024,East
+333,CA-2014-127299,JL-15835,2014-09-19,2014-09-24,5,"Standard Class","United States",Charlotte,"North Carolina",28205,South
+334,CA-2014-127383,CM-11815,2014-12-31,2015-01-05,5,"Standard Class","United States","El Paso",Texas,79907,Central
+335,CA-2014-127446,MC-17590,2014-11-25,2014-11-30,5,"Standard Class","United States",Arlington,Texas,76017,Central
+336,CA-2014-127488,MS-17365,2014-09-22,2014-09-24,2,"Second Class","United States","Boca Raton",Florida,33433,South
+337,CA-2014-127523,BG-11695,2014-05-11,2014-05-18,7,"Standard Class","United States",Watertown,"New York",13601,East
+338,CA-2014-127558,SS-20410,2014-11-15,2014-11-18,3,"First Class","United States","Los Angeles",California,90008,West
+339,CA-2014-127586,CS-12400,2014-09-26,2014-09-30,4,"Standard Class","United States",Seattle,Washington,98115,West
+340,CA-2014-127614,NF-18385,2014-02-11,2014-02-15,4,"Standard Class","United States",Chesapeake,Virginia,23320,South
+341,CA-2014-127691,EM-14065,2014-07-22,2014-07-27,5,"Standard Class","United States","New York City","New York",10024,East
+342,CA-2014-127859,QJ-19255,2014-03-17,2014-03-20,3,"Second Class","United States",Philadelphia,Pennsylvania,19134,East
+343,CA-2014-127866,JD-15895,2014-07-20,2014-07-23,3,"First Class","United States",Riverside,California,92503,West
+344,CA-2014-127936,CL-12565,2014-09-02,2014-09-04,2,"First Class","United States","New York City","New York",10009,East
+345,CA-2014-127964,AP-10720,2014-03-03,2014-03-08,5,"Standard Class","United States","New York City","New York",10035,East
+346,CA-2014-128055,AA-10315,2014-03-31,2014-04-05,5,"Standard Class","United States","San Francisco",California,94122,West
+347,CA-2014-128146,DB-13060,2014-06-21,2014-06-25,4,"Standard Class","United States",Lakewood,"New Jersey",8701,East
+348,CA-2014-128209,GT-14710,2014-11-17,2014-11-22,5,"Standard Class","United States",Buffalo,"New York",14215,East
+349,CA-2014-128237,CA-12265,2014-03-25,2014-03-30,5,"Standard Class","United States","San Francisco",California,94110,West
+350,CA-2014-128524,MZ-17515,2014-11-11,2014-11-13,2,"First Class","United States",Seattle,Washington,98115,West
+351,CA-2014-128538,AS-10240,2014-10-11,2014-10-15,4,"Standard Class","United States","Redondo Beach",California,90278,West
+352,CA-2014-128622,SC-20260,2014-11-15,2014-11-17,2,"Second Class","United States","San Francisco",California,94110,West
+353,CA-2014-128839,TT-21070,2014-09-08,2014-09-13,5,"Standard Class","United States",Chesapeake,Virginia,23320,South
+354,CA-2014-128846,RS-19765,2014-04-07,2014-04-12,5,"Standard Class","United States",Columbia,"South Carolina",29203,South
+355,CA-2014-128888,PB-19105,2014-11-15,2014-11-22,7,"Standard Class","United States",Houston,Texas,77095,Central
+356,CA-2014-128986,GH-14410,2014-08-03,2014-08-05,2,"Second Class","United States",Glendale,Arizona,85301,West
+357,CA-2014-129091,RA-19885,2014-11-22,2014-11-27,5,"Standard Class","United States",Columbus,Georgia,31907,South
+358,CA-2014-129147,LC-17050,2014-11-02,2014-11-06,4,"Standard Class","United States",Medina,Ohio,44256,East
+359,CA-2014-129168,KB-16585,2014-08-17,2014-08-23,6,"Standard Class","United States",Houston,Texas,77095,Central
+360,CA-2014-129189,HM-14860,2014-07-21,2014-07-25,4,"Standard Class","United States",Dallas,Texas,75217,Central
+361,CA-2014-129364,TB-21250,2014-12-08,2014-12-13,5,"Standard Class","United States",Salem,Oregon,97301,West
+362,CA-2014-129574,Dp-13240,2014-05-26,2014-05-29,3,"First Class","United States",Murray,Utah,84107,West
+363,CA-2014-129819,KC-16675,2014-12-13,2014-12-15,2,"Second Class","United States",Henderson,Kentucky,42420,South
+364,CA-2014-129924,AC-10420,2014-07-12,2014-07-17,5,"Standard Class","United States","San Francisco",California,94122,West
+365,CA-2014-129938,EB-13705,2014-12-15,2014-12-17,2,"Second Class","United States",Philadelphia,Pennsylvania,19140,East
+366,CA-2014-130092,SV-20365,2014-01-11,2014-01-14,3,"First Class","United States",Dover,Delaware,19901,East
+367,CA-2014-130155,TD-20995,2014-05-19,2014-05-22,3,"First Class","United States","Virginia Beach",Virginia,23464,South
+368,CA-2014-130274,JS-15940,2014-05-03,2014-05-05,2,"First Class","United States",Appleton,Wisconsin,54915,Central
+369,CA-2014-130421,SC-20020,2014-03-03,2014-03-07,4,"Standard Class","United States",Houston,Texas,77095,Central
+370,CA-2014-130428,TG-21640,2014-03-31,2014-03-31,0,"Same Day","United States",Tampa,Florida,33614,South
+371,CA-2014-130449,VP-21760,2014-09-06,2014-09-09,3,"First Class","United States","San Francisco",California,94109,West
+372,CA-2014-130575,CS-11845,2014-12-14,2014-12-16,2,"First Class","United States",Chicago,Illinois,60623,Central
+373,CA-2014-130624,TB-21280,2014-06-21,2014-06-24,3,"First Class","United States","New York City","New York",10024,East
+374,CA-2014-130673,MC-17590,2014-05-20,2014-05-22,2,"Second Class","United States","San Marcos",Texas,78666,Central
+375,CA-2014-130729,AA-10375,2014-10-24,2014-10-29,5,"Standard Class","United States","Rancho Cucamonga",California,91730,West
+376,CA-2014-130813,LS-17230,2014-01-06,2014-01-08,2,"Second Class","United States","Los Angeles",California,90049,West
+377,CA-2014-130869,CB-12025,2014-11-17,2014-11-21,4,"Standard Class","United States","Cedar Hill",Texas,75104,Central
+378,CA-2014-130918,JP-15520,2014-08-22,2014-08-24,2,"Second Class","United States","North Miami",Florida,33161,South
+379,CA-2014-130960,KB-16600,2014-12-30,2015-01-04,5,"Standard Class","United States",Taylor,Michigan,48180,Central
+380,CA-2014-131002,TB-21400,2014-09-07,2014-09-12,5,"Second Class","United States",Tulsa,Oklahoma,74133,Central
+381,CA-2014-131009,SC-20380,2014-03-01,2014-03-05,4,"Standard Class","United States","El Paso",Texas,79907,Central
+382,CA-2014-131051,TR-21325,2014-12-01,2014-12-05,4,"Standard Class","United States","San Francisco",California,94122,West
+383,CA-2014-131247,GA-14725,2014-03-30,2014-04-04,5,"Standard Class","United States","San Francisco",California,94110,West
+384,CA-2014-131310,CL-12565,2014-07-12,2014-07-18,6,"Standard Class","United States",Seattle,Washington,98115,West
+385,CA-2014-131387,AI-10855,2014-04-28,2014-04-30,2,"First Class","United States","San Francisco",California,94122,West
+386,CA-2014-131450,LR-16915,2014-08-08,2014-08-15,7,"Standard Class","United States","San Diego",California,92024,West
+387,CA-2014-131527,TB-21280,2014-12-01,2014-12-07,6,"Standard Class","United States",Jacksonville,"North Carolina",28540,South
+388,CA-2014-131541,CK-12205,2014-07-28,2014-07-28,0,"Same Day","United States",Apopka,Florida,32712,South
+389,CA-2014-131800,AJ-10960,2014-12-30,2015-01-04,5,"Standard Class","United States","New York City","New York",10035,East
+390,CA-2014-131905,ND-18460,2014-02-06,2014-02-09,3,"First Class","United States",Chesapeake,Virginia,23320,South
+391,CA-2014-131926,DW-13480,2014-06-01,2014-06-06,5,"Second Class","United States",Lakeville,Minnesota,55044,Central
+392,CA-2014-131947,JA-15970,2014-09-17,2014-09-22,5,"Standard Class","United States",Springfield,Oregon,97477,West
+393,CA-2014-132010,MA-17995,2014-10-13,2014-10-15,2,"First Class","United States",Richmond,Virginia,23223,South
+394,CA-2014-132227,SZ-20035,2014-11-04,2014-11-10,6,"Standard Class","United States","New York City","New York",10011,East
+395,CA-2014-132451,KF-16285,2014-09-26,2014-09-27,1,"First Class","United States","San Diego",California,92105,West
+396,CA-2014-132500,GZ-14470,2014-09-08,2014-09-12,4,"Standard Class","United States","San Francisco",California,94110,West
+397,CA-2014-132542,AM-10360,2014-10-06,2014-10-08,2,"Second Class","United States",Omaha,Nebraska,68104,Central
+398,CA-2014-132612,FO-14305,2014-06-09,2014-06-11,2,"Second Class","United States",Harrisonburg,Virginia,22801,South
+399,CA-2014-132787,MC-18130,2014-09-19,2014-09-23,4,"Standard Class","United States",Seattle,Washington,98115,West
+400,CA-2014-132801,JG-15805,2014-10-07,2014-10-12,5,"Standard Class","United States",Dallas,Texas,75217,Central
+401,CA-2014-132864,KN-16390,2014-12-02,2014-12-07,5,"Standard Class","United States",Columbus,Ohio,43229,East
+402,CA-2014-132913,AS-10090,2014-12-24,2014-12-26,2,"First Class","United States","San Diego",California,92037,West
+403,CA-2014-132962,JM-15535,2014-09-13,2014-09-16,3,"First Class","United States",Philadelphia,Pennsylvania,19143,East
+404,CA-2014-132983,DS-13180,2014-04-28,2014-05-03,5,"Standard Class","United States",Jamestown,"New York",14701,East
+405,CA-2014-133158,DW-13195,2014-08-19,2014-08-21,2,"Second Class","United States","Los Angeles",California,90045,West
+406,CA-2014-133228,MS-17710,2014-04-04,2014-04-09,5,"Standard Class","United States",Detroit,Michigan,48205,Central
+407,CA-2014-133270,BM-11785,2014-06-06,2014-06-09,3,"First Class","United States",Rochester,"New York",14609,East
+408,CA-2014-133305,MH-17455,2014-07-11,2014-07-15,4,"Standard Class","United States","New York City","New York",10011,East
+409,CA-2014-133354,SA-20830,2014-02-22,2014-02-24,2,"First Class","United States","Moreno Valley",California,92553,West
+410,CA-2014-133389,TB-21280,2014-06-22,2014-06-22,0,"Same Day","United States",Phoenix,Arizona,85023,West
+411,CA-2014-133424,Dl-13600,2014-03-30,2014-04-04,5,"Standard Class","United States",Seattle,Washington,98105,West
+412,CA-2014-133543,KM-16660,2014-12-22,2014-12-26,4,"Standard Class","United States","San Jose",California,95123,West
+413,CA-2014-133592,KM-16375,2014-12-31,2015-01-07,7,"Standard Class","United States",Providence,"Rhode Island",2908,East
+414,CA-2014-133634,SR-20740,2014-11-05,2014-11-10,5,"Standard Class","United States",Arlington,Virginia,22204,South
+415,CA-2014-133690,BS-11755,2014-08-03,2014-08-05,2,"First Class","United States",Denver,Colorado,80219,West
+416,CA-2014-133704,MA-17995,2014-09-20,2014-09-26,6,"Standard Class","United States","Los Angeles",California,90004,West
+417,CA-2014-133753,CW-11905,2014-06-09,2014-06-13,4,"Second Class","United States",Huntsville,Texas,77340,Central
+418,CA-2014-133809,MS-17530,2014-11-18,2014-11-23,5,"Second Class","United States",Fairfield,Ohio,45014,East
+419,CA-2014-133830,RL-19615,2014-12-05,2014-12-10,5,"Standard Class","United States","Los Angeles",California,90045,West
+420,CA-2014-133851,CM-12445,2014-06-09,2014-06-16,7,"Standard Class","United States","San Francisco",California,94122,West
+421,CA-2014-133963,GA-14515,2014-05-18,2014-05-22,4,"Second Class","United States",Dallas,Texas,75220,Central
+422,CA-2014-134061,LL-16840,2014-04-29,2014-05-04,5,"Standard Class","United States",Rochester,"New York",14609,East
+423,CA-2014-134103,MV-18190,2014-01-30,2014-02-04,5,"Standard Class","United States",Detroit,Michigan,48234,Central
+424,CA-2014-134215,ML-17395,2014-08-04,2014-08-08,4,"Standard Class","United States",Bangor,Maine,4401,East
+425,CA-2014-134278,EP-13915,2014-07-06,2014-07-08,2,"First Class","United States","New York City","New York",10011,East
+426,CA-2014-134313,RA-19915,2014-11-01,2014-11-07,6,"Standard Class","United States",Denver,Colorado,80219,West
+427,CA-2014-134551,TS-21505,2014-12-20,2014-12-25,5,"Standard Class","United States",Columbia,Tennessee,38401,South
+428,CA-2014-134572,SV-20365,2014-04-20,2014-04-22,2,"Second Class","United States",Houston,Texas,77070,Central
+429,CA-2014-134621,DP-13390,2014-12-21,2014-12-28,7,"Standard Class","United States",Columbia,Tennessee,38401,South
+430,CA-2014-134677,XP-21865,2014-10-06,2014-10-10,4,"Standard Class","United States","San Diego",California,92024,West
+431,CA-2014-134726,SW-20755,2014-11-02,2014-11-07,5,"Second Class","United States",Seattle,Washington,98115,West
+432,CA-2014-135090,SP-20920,2014-11-22,2014-11-26,4,"Standard Class","United States","Los Angeles",California,90036,West
+433,CA-2014-135405,MS-17830,2014-01-09,2014-01-13,4,"Standard Class","United States",Laredo,Texas,78041,Central
+434,CA-2014-135608,JK-15625,2014-12-08,2014-12-10,2,"Second Class","United States",Olympia,Washington,98502,West
+435,CA-2014-135657,SC-20725,2014-06-03,2014-06-07,4,"Second Class","United States",Seattle,Washington,98115,West
+436,CA-2014-135699,HH-15010,2014-08-29,2014-08-29,0,"Same Day","United States","San Francisco",California,94110,West
+437,CA-2014-135755,NC-18415,2014-05-03,2014-05-10,7,"Standard Class","United States",Yonkers,"New York",10701,East
+438,CA-2014-135993,PJ-18835,2014-05-28,2014-06-02,5,"Standard Class","United States",Seattle,Washington,98115,West
+439,CA-2014-136280,Co-12640,2014-11-29,2014-12-06,7,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+440,CA-2014-136336,DB-13555,2014-04-21,2014-04-26,5,"Standard Class","United States",Henderson,Kentucky,42420,South
+441,CA-2014-136399,CC-12100,2014-12-16,2014-12-17,1,"First Class","United States","Los Angeles",California,90049,West
+442,CA-2014-136567,PS-19045,2014-12-20,2014-12-21,1,"First Class","United States",Harrisonburg,Virginia,22801,South
+443,CA-2014-136644,SC-20575,2014-06-16,2014-06-22,6,"Standard Class","United States",Mishawaka,Indiana,46544,Central
+444,CA-2014-136742,GP-14740,2014-04-06,2014-04-10,4,"Standard Class","United States",Lancaster,Pennsylvania,17602,East
+445,CA-2014-136861,PR-18880,2014-09-05,2014-09-07,2,"First Class","United States","Saint Petersburg",Florida,33710,South
+446,CA-2014-137092,LS-16975,2014-10-20,2014-10-22,2,"Second Class","United States",Chicago,Illinois,60653,Central
+447,CA-2014-137274,MG-18145,2014-03-29,2014-04-02,4,"Standard Class","United States",Plano,Texas,75023,Central
+448,CA-2014-137351,DB-13615,2014-09-30,2014-10-04,4,"Standard Class","United States",Seattle,Washington,98105,West
+449,CA-2014-137575,TB-21625,2014-08-06,2014-08-11,5,"Standard Class","United States","New York City","New York",10035,East
+450,CA-2014-137589,MS-17770,2014-11-03,2014-11-08,5,"Standard Class","United States",Lancaster,Pennsylvania,17602,East
+451,CA-2014-137911,BP-11095,2014-10-09,2014-10-15,6,"Standard Class","United States",Jacksonville,"North Carolina",28540,South
+452,CA-2014-138023,KH-16510,2014-08-15,2014-08-18,3,"First Class","United States",Dallas,Texas,75081,Central
+453,CA-2014-138072,GA-14725,2014-12-30,2015-01-03,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+454,CA-2014-138100,AA-10315,2014-09-15,2014-09-20,5,"Standard Class","United States","New York City","New York",10011,East
+455,CA-2014-138128,FP-14320,2014-12-09,2014-12-15,6,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+456,CA-2014-138177,ND-18460,2014-09-19,2014-09-24,5,"Standard Class","United States",Chandler,Arizona,85224,West
+457,CA-2014-138198,JL-15130,2014-07-18,2014-07-23,5,"Standard Class","United States","New Rochelle","New York",10801,East
+458,CA-2014-138240,SJ-20500,2014-10-09,2014-10-14,5,"Standard Class","United States","San Francisco",California,94122,West
+459,CA-2014-138296,RC-19825,2014-12-05,2014-12-12,7,"Standard Class","United States",Alexandria,Virginia,22304,South
+460,CA-2014-138317,NW-18400,2014-06-21,2014-06-25,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+461,CA-2014-138359,KH-16330,2014-04-01,2014-04-06,5,"Standard Class","United States",Revere,Massachusetts,2151,East
+462,CA-2014-138436,JD-15895,2014-03-26,2014-03-30,4,"Standard Class","United States","Los Angeles",California,90036,West
+463,CA-2014-138450,EH-13765,2014-10-18,2014-10-22,4,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+464,CA-2014-138513,EH-13990,2014-05-23,2014-05-27,4,"Standard Class","United States",Bellevue,Washington,98006,West
+465,CA-2014-138527,BN-11470,2014-09-12,2014-09-17,5,"Standard Class","United States",Cary,"North Carolina",27511,South
+466,CA-2014-138681,CT-11995,2014-12-20,2014-12-22,2,"First Class","United States",Tucson,Arizona,85705,West
+467,CA-2014-138709,MS-17770,2014-07-04,2014-07-09,5,"Standard Class","United States",Richmond,Virginia,23223,South
+468,CA-2014-138737,FP-14320,2014-12-07,2014-12-10,3,"First Class","United States","Los Angeles",California,90049,West
+469,CA-2014-138940,GM-14455,2014-04-11,2014-04-16,5,"Second Class","United States",Austin,Texas,78745,Central
+470,CA-2014-139017,RM-19375,2014-05-11,2014-05-17,6,"Standard Class","United States",Houston,Texas,77095,Central
+471,CA-2014-139192,LC-16885,2014-05-27,2014-06-01,5,"Second Class","United States","San Francisco",California,94109,West
+472,CA-2014-139283,BT-11440,2014-11-23,2014-11-27,4,"Standard Class","United States",Detroit,Michigan,48227,Central
+473,CA-2014-139423,DG-13300,2014-11-01,2014-11-05,4,"Standard Class","United States",Orange,"New Jersey",7050,East
+474,CA-2014-139451,DN-13690,2014-10-12,2014-10-16,4,"Standard Class","United States","San Francisco",California,94122,West
+475,CA-2014-139542,EH-14185,2014-10-25,2014-10-29,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+476,CA-2014-139598,MG-17695,2014-12-26,2014-12-31,5,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+477,CA-2014-139633,EC-14050,2014-12-17,2014-12-24,7,"Standard Class","United States",Columbus,Ohio,43229,East
+478,CA-2014-139857,CD-12790,2014-02-02,2014-02-06,4,"Standard Class","United States","San Diego",California,92037,West
+479,CA-2014-139892,BM-11140,2014-09-08,2014-09-12,4,"Standard Class","United States","San Antonio",Texas,78207,Central
+480,CA-2014-140004,CB-12025,2014-03-21,2014-03-25,4,"Standard Class","United States",Hamilton,Ohio,45011,East
+481,CA-2014-140032,TS-21340,2014-09-08,2014-09-13,5,"Standard Class","United States","San Francisco",California,94109,West
+482,CA-2014-140039,ON-18715,2014-09-13,2014-09-17,4,"Standard Class","United States",Tempe,Arizona,85281,West
+483,CA-2014-140165,EH-14005,2014-05-13,2014-05-15,2,"First Class","United States",Hialeah,Florida,33012,South
+484,CA-2014-140228,GB-14530,2014-04-28,2014-05-03,5,"Standard Class","United States",Newark,Ohio,43055,East
+485,CA-2014-140396,KH-16330,2014-11-20,2014-11-25,5,"Standard Class","United States","New York City","New York",10024,East
+486,CA-2014-140403,TN-21040,2014-10-10,2014-10-10,0,"Same Day","United States",Manteca,California,95336,West
+487,CA-2014-140473,MC-17425,2014-05-30,2014-06-03,4,"Standard Class","United States",Chicago,Illinois,60623,Central
+488,CA-2014-140487,SR-20425,2014-06-14,2014-06-20,6,"Standard Class","United States",Detroit,Michigan,48234,Central
+489,CA-2014-140662,TS-21205,2014-11-17,2014-11-19,2,"First Class","United States","San Francisco",California,94109,West
+490,CA-2014-140732,MA-17560,2014-11-11,2014-11-13,2,"Second Class","United States","Los Angeles",California,90004,West
+491,CA-2014-140795,BD-11500,2014-02-01,2014-02-03,2,"First Class","United States","Green Bay",Wisconsin,54302,Central
+492,CA-2014-140816,TC-21295,2014-12-20,2014-12-20,0,"Same Day","United States",Thornton,Colorado,80229,West
+493,CA-2014-140858,CA-12775,2014-06-28,2014-07-02,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+494,CA-2014-140886,KW-16570,2014-09-30,2014-10-04,4,"Standard Class","United States",Clarksville,Tennessee,37042,South
+495,CA-2014-141005,CS-12355,2014-08-15,2014-08-18,3,"First Class","United States",Fairfield,Connecticut,6824,East
+496,CA-2014-141110,LS-17200,2014-11-26,2014-12-01,5,"Standard Class","United States",Fresno,California,93727,West
+497,CA-2014-141152,RF-19345,2014-09-16,2014-09-19,3,"First Class","United States","New York City","New York",10024,East
+498,CA-2014-141173,JC-16105,2014-11-18,2014-11-20,2,"Second Class","United States",Minneapolis,Minnesota,55407,Central
+499,CA-2014-141278,RM-19375,2014-06-21,2014-06-24,3,"First Class","United States",Meriden,Connecticut,6450,East
+500,CA-2014-141299,RB-19795,2014-06-03,2014-06-07,4,"Second Class","United States",Midland,Michigan,48640,Central
+501,CA-2014-141313,AJ-10780,2014-12-28,2015-01-01,4,"Standard Class","United States",Beverly,Massachusetts,1915,East
+502,CA-2014-141355,BF-11005,2014-09-25,2014-09-30,5,"Standard Class","United States",Aurora,Colorado,80013,West
+503,CA-2014-141607,WB-21850,2014-12-12,2014-12-17,5,"Standard Class","United States",Concord,California,94521,West
+504,CA-2014-141649,DM-12955,2014-09-30,2014-09-30,0,"Same Day","United States",Fairfield,Ohio,45014,East
+505,CA-2014-141726,CC-12145,2014-07-20,2014-07-22,2,"First Class","United States","San Diego",California,92105,West
+506,CA-2014-141796,JG-15160,2014-06-21,2014-06-21,0,"Same Day","United States","Long Beach","New York",11561,East
+507,CA-2014-141817,MB-18085,2014-01-05,2014-01-12,7,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+508,CA-2014-141838,DK-12835,2014-03-26,2014-03-31,5,"Second Class","United States","San Francisco",California,94122,West
+509,CA-2014-141901,GM-14500,2014-08-09,2014-08-14,5,"Standard Class","United States",Fresno,California,93727,West
+510,CA-2014-142048,JE-15745,2014-06-22,2014-06-25,3,"First Class","United States",Louisville,Colorado,80027,West
+511,CA-2014-142314,SF-20200,2014-12-23,2014-12-28,5,"Standard Class","United States",Richmond,Indiana,47374,Central
+512,CA-2014-142510,NP-18700,2014-12-22,2014-12-29,7,"Standard Class","United States",Chicago,Illinois,60623,Central
+513,CA-2014-142587,TB-21520,2014-10-21,2014-10-22,1,"First Class","United States",Fairfield,Ohio,45014,East
+514,CA-2014-142727,HG-14845,2014-04-29,2014-05-01,2,"Second Class","United States","Lake Charles",Louisiana,70601,South
+515,CA-2014-142769,RP-19390,2014-09-13,2014-09-13,0,"Same Day","United States",Seattle,Washington,98103,West
+516,CA-2014-142839,TS-21610,2014-08-16,2014-08-20,4,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+517,CA-2014-142951,JG-15115,2014-10-08,2014-10-08,0,"Same Day","United States",Charlotte,"North Carolina",28205,South
+518,CA-2014-142965,SW-20245,2014-07-20,2014-07-20,0,"Same Day","United States",Springfield,Ohio,45503,East
+519,CA-2014-142979,EH-13765,2014-04-12,2014-04-18,6,"Standard Class","United States",Lodi,California,95240,West
+520,CA-2014-143168,IG-15085,2014-10-18,2014-10-23,5,"Second Class","United States",Seattle,Washington,98103,West
+521,CA-2014-143182,DL-12865,2014-10-15,2014-10-20,5,"Standard Class","United States",Hialeah,Florida,33012,South
+522,CA-2014-143210,AA-10645,2014-12-01,2014-12-03,2,"First Class","United States",Lowell,Massachusetts,1852,East
+523,CA-2014-143336,ZD-21925,2014-08-27,2014-09-01,5,"Second Class","United States","San Francisco",California,94109,West
+524,CA-2014-143371,MD-17350,2014-12-28,2015-01-03,6,"Standard Class","United States",Anaheim,California,92804,West
+525,CA-2014-143385,SJ-20500,2014-08-31,2014-09-05,5,"Standard Class","United States","Santa Fe","New Mexico",87505,West
+526,CA-2014-143413,RP-19390,2014-05-24,2014-05-30,6,"Standard Class","United States",Baltimore,Maryland,21215,East
+527,CA-2014-143637,MS-17710,2014-03-24,2014-03-29,5,"Second Class","United States",Fresno,California,93727,West
+528,CA-2014-143840,EH-14185,2014-05-22,2014-05-29,7,"Standard Class","United States",Decatur,Alabama,35601,South
+529,CA-2014-143903,KM-16375,2014-07-20,2014-07-24,4,"Standard Class","United States",Dallas,Texas,75217,Central
+530,CA-2014-143917,KL-16645,2014-07-25,2014-07-27,2,"Second Class","United States","San Francisco",California,94122,West
+531,CA-2014-144029,MM-18055,2014-05-26,2014-05-31,5,"Standard Class","United States",Chicago,Illinois,60623,Central
+532,CA-2014-144071,DJ-13420,2014-12-08,2014-12-15,7,"Standard Class","United States","San Francisco",California,94110,West
+533,CA-2014-144281,HK-14890,2014-06-10,2014-06-15,5,"Second Class","United States",Detroit,Michigan,48234,Central
+534,CA-2014-144407,MS-17365,2014-09-09,2014-09-15,6,"Standard Class","United States",Detroit,Michigan,48227,Central
+535,CA-2014-144414,GH-14425,2014-06-17,2014-06-21,4,"Standard Class","United States",Seattle,Washington,98105,West
+536,CA-2014-144624,JM-15865,2014-11-19,2014-11-23,4,"Standard Class","United States",Jamestown,"New York",14701,East
+537,CA-2014-144666,JP-15520,2014-11-09,2014-11-11,2,"Second Class","United States","San Francisco",California,94110,West
+538,CA-2014-144974,CM-12715,2014-09-26,2014-09-30,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+539,CA-2014-145212,DC-12850,2014-09-13,2014-09-19,6,"Standard Class","United States","New York City","New York",10011,East
+540,CA-2014-145254,NC-18535,2014-07-23,2014-07-27,4,"Standard Class","United States","San Francisco",California,94122,West
+541,CA-2014-145317,SM-20320,2014-03-18,2014-03-23,5,"Standard Class","United States",Jacksonville,Florida,32216,South
+542,CA-2014-145387,AM-10705,2014-10-31,2014-11-02,2,"Second Class","United States",Cranston,"Rhode Island",2920,East
+543,CA-2014-145541,TB-21400,2014-12-14,2014-12-21,7,"Standard Class","United States","New York City","New York",10024,East
+544,CA-2014-145576,CA-12775,2014-09-14,2014-09-18,4,"Second Class","United States",Tampa,Florida,33614,South
+545,CA-2014-145800,SS-20410,2014-05-30,2014-06-05,6,"Standard Class","United States","Buffalo Grove",Illinois,60089,Central
+546,CA-2014-145926,MP-17470,2014-11-17,2014-11-21,4,"Standard Class","United States",Moorhead,Minnesota,56560,Central
+547,CA-2014-146283,KT-16465,2014-09-08,2014-09-15,7,"Standard Class","United States",Houston,Texas,77036,Central
+548,CA-2014-146500,AT-10735,2014-08-30,2014-09-04,5,"Standard Class","United States",Bristol,Connecticut,6010,East
+549,CA-2014-146528,VF-21715,2014-07-25,2014-07-27,2,"Second Class","United States","Los Angeles",California,90045,West
+550,CA-2014-146591,TS-21340,2014-01-19,2014-01-20,1,"First Class","United States",Scottsdale,Arizona,85254,West
+551,CA-2014-146640,HA-14905,2014-06-30,2014-07-05,5,"Standard Class","United States","New York City","New York",10024,East
+552,CA-2014-146703,PO-18865,2014-10-20,2014-10-25,5,"Second Class","United States",Westland,Michigan,48185,Central
+553,CA-2014-146731,AT-10735,2014-11-03,2014-11-08,5,"Standard Class","United States",Nashville,Tennessee,37211,South
+554,CA-2014-146815,PP-18955,2014-09-08,2014-09-13,5,"Standard Class","United States","New York City","New York",10009,East
+555,CA-2014-146843,PB-19150,2014-11-30,2014-12-06,6,"Standard Class","United States",Avondale,Arizona,85323,West
+556,CA-2014-146864,BT-11530,2014-12-22,2014-12-26,4,"Standard Class","United States","New York City","New York",10024,East
+557,CA-2014-146969,AP-10915,2014-09-29,2014-10-03,4,"Standard Class","United States","Los Angeles",California,90045,West
+558,CA-2014-146990,BP-11095,2014-11-07,2014-11-08,1,"First Class","United States","New York City","New York",10024,East
+559,CA-2014-146997,SG-20605,2014-01-23,2014-01-27,4,"Standard Class","United States",Lafayette,Indiana,47905,Central
+560,CA-2014-147235,CD-11920,2014-03-24,2014-03-28,4,"Standard Class","United States","New York City","New York",10024,East
+561,CA-2014-147298,AG-10300,2014-04-26,2014-05-03,7,"Standard Class","United States","Los Angeles",California,90049,West
+562,CA-2014-147543,BC-11125,2014-07-06,2014-07-12,6,"Standard Class","United States","El Cajon",California,92020,West
+563,CA-2014-147900,JK-15640,2014-09-23,2014-09-28,5,"Standard Class","United States",Lakewood,Ohio,44107,East
+564,CA-2014-147914,MP-17470,2014-06-04,2014-06-09,5,"Standard Class","United States",Columbus,Ohio,43229,East
+565,CA-2014-148040,BF-11275,2014-03-22,2014-03-26,4,"Standard Class","United States",Tucson,Arizona,85705,West
+566,CA-2014-148285,RD-19810,2014-10-27,2014-11-01,5,"Standard Class","United States",Fayetteville,"North Carolina",28314,South
+567,CA-2014-148369,TH-21115,2014-09-23,2014-09-27,4,"Standard Class","United States",Newark,Delaware,19711,East
+568,CA-2014-148383,RP-19390,2014-12-27,2014-12-31,4,"Standard Class","United States",Phoenix,Arizona,85023,West
+569,CA-2014-148425,RF-19345,2014-11-30,2014-12-04,4,"Standard Class","United States",Orlando,Florida,32839,South
+570,CA-2014-148488,SM-20005,2014-12-10,2014-12-15,5,"Standard Class","United States","New York City","New York",10009,East
+571,CA-2014-148586,AZ-10750,2014-03-25,2014-04-01,7,"Standard Class","United States","New York City","New York",10009,East
+572,CA-2014-148614,MV-17485,2014-01-20,2014-01-25,5,"Standard Class","United States","Los Angeles",California,90049,West
+573,CA-2014-148761,PA-19060,2014-05-17,2014-05-21,4,"Standard Class","United States","Eau Claire",Wisconsin,54703,Central
+574,CA-2014-148782,PO-18850,2014-11-02,2014-11-07,5,"Standard Class","United States",Irving,Texas,75061,Central
+575,CA-2014-148915,ND-18370,2014-11-01,2014-11-05,4,"Standard Class","United States",Portland,Oregon,97206,West
+576,CA-2014-148950,JD-16015,2014-12-14,2014-12-19,5,"Standard Class","United States",Chicago,Illinois,60610,Central
+577,CA-2014-149020,AJ-10780,2014-01-10,2014-01-15,5,"Standard Class","United States",Springfield,Virginia,22153,South
+578,CA-2014-149055,PB-19210,2014-11-23,2014-11-28,5,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+579,CA-2014-149104,RD-19900,2014-04-05,2014-04-07,2,"Second Class","United States","Dearborn Heights",Michigan,48127,Central
+580,CA-2014-149244,MS-17530,2014-11-04,2014-11-08,4,"Standard Class","United States","San Diego",California,92037,West
+581,CA-2014-149524,BS-11590,2014-01-14,2014-01-15,1,"First Class","United States",Philadelphia,Pennsylvania,19140,East
+582,CA-2014-149538,KB-16585,2014-04-04,2014-04-08,4,"Standard Class","United States",Lafayette,Louisiana,70506,South
+583,CA-2014-149594,MF-18250,2014-09-15,2014-09-19,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+584,CA-2014-149643,RH-19510,2014-11-16,2014-11-20,4,"Standard Class","United States",Manhattan,Kansas,66502,Central
+585,CA-2014-149958,AS-10240,2014-03-15,2014-03-19,4,"Standard Class","United States",Tampa,Florida,33614,South
+586,CA-2014-150203,JB-15925,2014-12-05,2014-12-07,2,"First Class","United States","Los Angeles",California,90032,West
+587,CA-2014-150245,PC-18745,2014-12-31,2015-01-04,4,"Second Class","United States",Watertown,"New York",13601,East
+588,CA-2014-150301,MH-18025,2014-07-08,2014-07-10,2,"First Class","United States",Buffalo,"New York",14215,East
+589,CA-2014-150329,SD-20485,2014-10-10,2014-10-14,4,"Standard Class","United States",Phoenix,Arizona,85023,West
+590,CA-2014-150490,SS-20590,2014-08-05,2014-08-11,6,"Standard Class","United States","San Francisco",California,94122,West
+591,CA-2014-150518,MW-18220,2014-11-19,2014-11-24,5,"Standard Class","United States","Coon Rapids",Minnesota,55433,Central
+592,CA-2014-150581,NM-18445,2014-04-08,2014-04-12,4,"Standard Class","United States",Concord,California,94521,West
+593,CA-2014-150798,JK-15730,2014-12-01,2014-12-03,2,"Second Class","United States",Columbus,Ohio,43229,East
+594,CA-2014-151001,JG-15805,2014-04-05,2014-04-07,2,"First Class","United States",Decatur,Illinois,62521,Central
+595,CA-2014-151078,RF-19840,2014-11-12,2014-11-12,0,"Same Day","United States","San Antonio",Texas,78207,Central
+596,CA-2014-151162,EA-14035,2014-12-05,2014-12-09,4,"Standard Class","United States",Columbus,Ohio,43229,East
+597,CA-2014-151295,JA-15970,2014-11-12,2014-11-16,4,"Standard Class","United States","Los Angeles",California,90045,West
+598,CA-2014-151330,TC-21295,2014-10-14,2014-10-17,3,"First Class","United States",Everett,Massachusetts,2149,East
+599,CA-2014-151379,SC-20695,2014-12-16,2014-12-20,4,"Standard Class","United States",Detroit,Michigan,48227,Central
+600,CA-2014-151554,CM-11815,2014-11-14,2014-11-15,1,"First Class","United States",Pasadena,Texas,77506,Central
+601,CA-2014-151708,MB-17305,2014-08-08,2014-08-14,6,"Standard Class","United States",Glendale,Arizona,85301,West
+602,CA-2014-151792,CV-12295,2014-09-02,2014-09-07,5,"Second Class","United States",Chicago,Illinois,60653,Central
+603,CA-2014-151897,VT-21700,2014-06-06,2014-06-10,4,"Standard Class","United States",Houston,Texas,77070,Central
+604,CA-2014-151946,BT-11440,2014-06-04,2014-06-09,5,"Standard Class","United States","New York City","New York",10035,East
+605,CA-2014-151953,DB-13555,2014-09-20,2014-09-25,5,"Standard Class","United States",Jacksonville,Florida,32216,South
+606,CA-2014-151967,NB-18580,2014-10-22,2014-10-26,4,"Standard Class","United States","Bossier City",Louisiana,71111,South
+607,CA-2014-151995,ZC-21910,2014-10-13,2014-10-15,2,"First Class","United States",Edmonds,Washington,98026,West
+608,CA-2014-152100,VW-21775,2014-05-11,2014-05-16,5,"Standard Class","United States",Huntsville,Texas,77340,Central
+609,CA-2014-152233,KH-16510,2014-10-05,2014-10-06,1,"First Class","United States",Pomona,California,91767,West
+610,CA-2014-152254,BD-11620,2014-06-30,2014-06-30,0,"Same Day","United States",Wilmington,"North Carolina",28403,South
+611,CA-2014-152268,SC-20095,2014-09-02,2014-09-07,5,"Standard Class","United States",Fayetteville,Arkansas,72701,South
+612,CA-2014-152296,IL-15100,2014-08-01,2014-08-03,2,"First Class","United States","San Francisco",California,94122,West
+613,CA-2014-152345,ST-20530,2014-12-29,2015-01-03,5,"Second Class","United States",Albuquerque,"New Mexico",87105,West
+614,CA-2014-152422,BD-11635,2014-10-05,2014-10-10,5,"Second Class","United States",Columbus,Ohio,43229,East
+615,CA-2014-152443,FG-14260,2014-05-21,2014-05-26,5,"Standard Class","United States",Lawrence,Massachusetts,1841,East
+616,CA-2014-152562,JO-15145,2014-11-01,2014-11-08,7,"Standard Class","United States",Richmond,Kentucky,40475,South
+617,CA-2014-152618,RB-19465,2014-03-14,2014-03-17,3,"First Class","United States",Chicago,Illinois,60653,Central
+618,CA-2014-152849,DW-13195,2014-07-05,2014-07-12,7,"Standard Class","United States",Knoxville,Tennessee,37918,South
+619,CA-2014-152905,AB-10015,2014-02-18,2014-02-24,6,"Standard Class","United States",Arlington,Texas,76017,Central
+620,CA-2014-153087,TC-20980,2014-12-27,2015-01-03,7,"Standard Class","United States",Decatur,Alabama,35601,South
+621,CA-2014-153150,Dl-13600,2014-07-01,2014-07-06,5,"Second Class","United States",Seattle,Washington,98105,West
+622,CA-2014-153479,DF-13135,2014-10-04,2014-10-08,4,"Standard Class","United States",Vallejo,California,94591,West
+623,CA-2014-153619,TC-21535,2014-11-03,2014-11-03,0,"Same Day","United States","Los Angeles",California,90049,West
+624,CA-2014-153808,FH-14275,2014-04-06,2014-04-10,4,"Second Class","United States","Los Angeles",California,90004,West
+625,CA-2014-153850,TH-21100,2014-11-24,2014-11-29,5,"Standard Class","United States",Toledo,Ohio,43615,East
+626,CA-2014-153913,KB-16585,2014-12-16,2014-12-20,4,"Second Class","United States",Hialeah,Florida,33012,South
+627,CA-2014-153927,LL-16840,2014-08-12,2014-08-13,1,"First Class","United States",Woodstock,Georgia,30188,South
+628,CA-2014-153969,HF-14995,2014-09-21,2014-09-25,4,"Standard Class","United States","San Francisco",California,94109,West
+629,CA-2014-153976,BP-11290,2014-10-03,2014-10-08,5,"Second Class","United States",Evanston,Illinois,60201,Central
+630,CA-2014-153983,AH-10210,2014-11-29,2014-12-06,7,"Standard Class","United States","San Francisco",California,94122,West
+631,CA-2014-154095,ON-18715,2014-12-02,2014-12-07,5,"Standard Class","United States",Clinton,Maryland,20735,East
+632,CA-2014-154158,CC-12670,2014-12-23,2014-12-27,4,"Second Class","United States",Tampa,Florida,33614,South
+633,CA-2014-154165,DL-13315,2014-02-17,2014-02-24,7,"Standard Class","United States",Chicago,Illinois,60653,Central
+634,CA-2014-154186,RA-19285,2014-12-13,2014-12-15,2,"Second Class","United States",Houston,Texas,77070,Central
+635,CA-2014-154592,EH-14005,2014-12-07,2014-12-08,1,"First Class","United States","San Francisco",California,94109,West
+636,CA-2014-154599,KN-16450,2014-04-12,2014-04-17,5,"Standard Class","United States","Redondo Beach",California,90278,West
+637,CA-2014-154627,SA-20830,2014-10-29,2014-10-31,2,"First Class","United States",Chicago,Illinois,60610,Central
+638,CA-2014-154641,KL-16645,2014-08-11,2014-08-16,5,"Standard Class","United States","New York City","New York",10035,East
+639,CA-2014-154669,TM-21010,2014-08-08,2014-08-11,3,"Second Class","United States",Vacaville,California,95687,West
+640,CA-2014-154781,SC-20680,2014-11-21,2014-11-26,5,"Standard Class","United States","San Francisco",California,94110,West
+641,CA-2014-154837,RB-19645,2014-08-23,2014-08-27,4,"Second Class","United States","Los Angeles",California,90032,West
+642,CA-2014-154893,GM-14440,2014-12-21,2014-12-27,6,"Standard Class","United States","San Diego",California,92024,West
+643,CA-2014-154963,AA-10645,2014-06-22,2014-06-27,5,"Standard Class","United States",Chester,Pennsylvania,19013,East
+644,CA-2014-155208,SP-20650,2014-04-16,2014-04-20,4,"Standard Class","United States",Wilmington,"North Carolina",28403,South
+645,CA-2014-155264,RP-19270,2014-10-19,2014-10-22,3,"Second Class","United States","San Francisco",California,94110,West
+646,CA-2014-155271,AA-10480,2014-05-04,2014-05-04,0,"Same Day","United States",Middletown,Connecticut,6457,East
+647,CA-2014-155390,BG-11035,2014-12-06,2014-12-11,5,"Standard Class","United States",Memphis,Tennessee,38109,South
+648,CA-2014-155593,RP-19390,2014-11-03,2014-11-08,5,"Standard Class","United States",Fairfield,Connecticut,6824,East
+649,CA-2014-155796,TS-21430,2014-11-11,2014-11-15,4,"Second Class","United States",Reading,Pennsylvania,19601,East
+650,CA-2014-155852,AJ-10945,2014-03-03,2014-03-07,4,"Second Class","United States",Wilmington,"North Carolina",28403,South
+651,CA-2014-155887,KT-16480,2014-05-12,2014-05-17,5,"Standard Class","United States",Franklin,Massachusetts,2038,East
+652,CA-2014-156006,TM-21010,2014-04-30,2014-05-02,2,"Second Class","United States",Jackson,Mississippi,39212,South
+653,CA-2014-156160,AS-10090,2014-09-22,2014-09-29,7,"Standard Class","United States","New York City","New York",10035,East
+654,CA-2014-156244,DH-13675,2014-08-12,2014-08-16,4,"Standard Class","United States",Miami,Florida,33180,South
+655,CA-2014-156314,RP-19390,2014-12-24,2014-12-26,2,"First Class","United States",Cleveland,Ohio,44105,East
+656,CA-2014-156342,JF-15415,2014-06-17,2014-06-20,3,"Second Class","United States",Chicago,Illinois,60653,Central
+657,CA-2014-156349,ML-17395,2014-05-26,2014-05-30,4,"Standard Class","United States","Los Angeles",California,90008,West
+658,CA-2014-156433,ES-14020,2014-09-20,2014-09-26,6,"Standard Class","United States","San Francisco",California,94110,West
+659,CA-2014-156545,JS-16030,2014-02-27,2014-03-03,4,"First Class","United States",Columbus,Ohio,43229,East
+660,CA-2014-156587,AB-10015,2014-03-07,2014-03-08,1,"First Class","United States",Seattle,Washington,98103,West
+661,CA-2014-156594,MC-17845,2014-12-20,2014-12-23,3,"Second Class","United States","Los Angeles",California,90008,West
+662,CA-2014-156601,FA-14230,2014-09-19,2014-09-24,5,"Standard Class","United States","Long Beach",California,90805,West
+663,CA-2014-156790,VG-21790,2014-08-08,2014-08-10,2,"Second Class","United States",Jacksonville,Florida,32216,South
+664,CA-2014-156993,RW-19630,2014-06-28,2014-07-04,6,"Standard Class","United States",Detroit,Michigan,48234,Central
+665,CA-2014-157147,BD-11605,2014-01-13,2014-01-18,5,"Standard Class","United States","San Francisco",California,94109,West
+666,CA-2014-157546,RD-19720,2014-07-20,2014-07-22,2,"First Class","United States","San Francisco",California,94122,West
+667,CA-2014-157609,KN-16705,2014-03-16,2014-03-21,5,"Second Class","United States",Raleigh,"North Carolina",27604,South
+668,CA-2014-157623,DK-13225,2014-03-14,2014-03-18,4,"Standard Class","United States","Huntington Beach",California,92646,West
+669,CA-2014-157644,AH-10030,2014-12-31,2015-01-01,1,"First Class","United States","New York City","New York",10035,East
+670,CA-2014-157721,JM-16195,2014-09-02,2014-09-05,3,"First Class","United States",Watertown,"New York",13601,East
+671,CA-2014-157784,MC-17845,2014-07-05,2014-07-08,3,"First Class","United States",Jackson,Mississippi,39212,South
+672,CA-2014-157882,AR-10405,2014-10-03,2014-10-08,5,"Second Class","United States","Los Angeles",California,90036,West
+673,CA-2014-157924,HA-14920,2014-10-11,2014-10-13,2,"First Class","United States",Pasadena,California,91104,West
+674,CA-2014-158029,HF-14995,2014-05-26,2014-05-30,4,"Standard Class","United States","Los Angeles",California,90008,West
+675,CA-2014-158064,AA-10375,2014-04-21,2014-04-25,4,"Standard Class","United States","Los Angeles",California,90008,West
+676,CA-2014-158225,SE-20110,2014-09-22,2014-09-28,6,"Standard Class","United States","San Jose",California,95123,West
+677,CA-2014-158274,RM-19675,2014-11-19,2014-11-24,5,"Second Class","United States",Monroe,Louisiana,71203,South
+678,CA-2014-158281,AG-10525,2014-09-02,2014-09-07,5,"Standard Class","United States",Houston,Texas,77095,Central
+679,CA-2014-158337,KA-16525,2014-03-11,2014-03-14,3,"Second Class","United States","New York City","New York",10024,East
+680,CA-2014-158372,RD-19900,2014-11-10,2014-11-16,6,"Standard Class","United States","San Diego",California,92037,West
+681,CA-2014-158442,AZ-10750,2014-03-17,2014-03-17,0,"Same Day","United States",Dallas,Texas,75217,Central
+682,CA-2014-158470,AG-10390,2014-04-19,2014-04-23,4,"Second Class","United States",Arlington,Virginia,22204,South
+683,CA-2014-158771,SB-20290,2014-05-09,2014-05-09,0,"Same Day","United States",Henderson,Kentucky,42420,South
+684,CA-2014-159121,JO-15145,2014-07-26,2014-08-01,6,"Standard Class","United States",Draper,Utah,84020,West
+685,CA-2014-159184,JC-15775,2014-09-14,2014-09-19,5,"Standard Class","United States",Macon,Georgia,31204,South
+686,CA-2014-159310,SC-20725,2014-11-07,2014-11-12,5,"Standard Class","United States",Houston,Texas,77070,Central
+687,CA-2014-159338,NS-18640,2014-06-25,2014-06-28,3,"First Class","United States","Los Angeles",California,90049,West
+688,CA-2014-159478,MH-17785,2014-09-30,2014-10-06,6,"Standard Class","United States","New York City","New York",10035,East
+689,CA-2014-159520,GT-14635,2014-06-06,2014-06-11,5,"Standard Class","United States","Long Beach","New York",11561,East
+690,CA-2014-159625,SM-20005,2014-11-23,2014-11-28,5,"Standard Class","United States",Scottsdale,Arizona,85254,West
+691,CA-2014-159681,PO-18850,2014-12-07,2014-12-13,6,"Standard Class","United States","Virginia Beach",Virginia,23464,South
+692,CA-2014-159709,AI-10855,2014-05-10,2014-05-15,5,"Standard Class","United States",Kent,Washington,98031,West
+693,CA-2014-159800,SG-20470,2014-11-28,2014-12-01,3,"First Class","United States","San Francisco",California,94109,West
+694,CA-2014-159814,LP-17080,2014-06-24,2014-06-28,4,"Standard Class","United States",Tucson,Arizona,85705,West
+695,CA-2014-159835,RB-19330,2014-11-17,2014-11-24,7,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+696,CA-2014-159849,JK-15640,2014-09-19,2014-09-19,0,"Same Day","United States","San Francisco",California,94110,West
+697,CA-2014-160066,AH-10075,2014-11-16,2014-11-22,6,"Standard Class","United States","Huntington Beach",California,92646,West
+698,CA-2014-160094,JM-16195,2014-04-30,2014-05-02,2,"First Class","United States",Louisville,Kentucky,40214,South
+699,CA-2014-160157,MH-17455,2014-12-20,2014-12-27,7,"Standard Class","United States",Hamilton,Ohio,45011,East
+700,CA-2014-160262,TS-21205,2014-06-09,2014-06-13,4,"Second Class","United States","North Las Vegas",Nevada,89031,West
+701,CA-2014-160276,AH-10690,2014-04-02,2014-04-08,6,"Standard Class","United States","Virginia Beach",Virginia,23464,South
+702,CA-2014-160738,KH-16330,2014-05-05,2014-05-10,5,"Standard Class","United States",Freeport,Illinois,61032,Central
+703,CA-2014-160766,DM-13015,2014-09-14,2014-09-14,0,"Same Day","United States","New York City","New York",10009,East
+704,CA-2014-160773,LW-16825,2014-07-01,2014-07-05,4,"Standard Class","United States",Deltona,Florida,32725,South
+705,CA-2014-161032,MK-17905,2014-11-18,2014-11-23,5,"Standard Class","United States",Franklin,Wisconsin,53132,Central
+706,CA-2014-161249,RD-19720,2014-08-09,2014-08-13,4,"Standard Class","United States",Phoenix,Arizona,85023,West
+707,CA-2014-161508,PV-18985,2014-07-12,2014-07-16,4,"Standard Class","United States","League City",Texas,77573,Central
+708,CA-2014-161634,CC-12220,2014-11-14,2014-11-20,6,"Standard Class","United States",Chesapeake,Virginia,23320,South
+709,CA-2014-162089,MP-17470,2014-03-30,2014-04-01,2,"First Class","United States",Brownsville,Texas,78521,Central
+710,CA-2014-162278,AH-10585,2014-10-26,2014-10-30,4,"Second Class","United States",Seattle,Washington,98105,West
+711,CA-2014-162362,JL-15505,2014-11-14,2014-11-18,4,"Standard Class","United States",Midland,Michigan,48640,Central
+712,CA-2014-162684,AS-10630,2014-08-01,2014-08-06,5,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+713,CA-2014-162775,CS-12250,2014-01-13,2014-01-15,2,"Second Class","United States","Bossier City",Louisiana,71111,South
+714,CA-2014-162866,Co-12640,2014-12-27,2014-12-31,4,"Standard Class","United States",Skokie,Illinois,60076,Central
+715,CA-2014-162992,BP-11095,2014-12-19,2014-12-21,2,"First Class","United States","Los Angeles",California,90008,West
+716,CA-2014-163013,BF-11080,2014-11-28,2014-12-04,6,"Standard Class","United States",Montgomery,Alabama,36116,South
+717,CA-2014-163034,DK-12985,2014-11-24,2014-11-28,4,"Standard Class","United States",Chicago,Illinois,60610,Central
+718,CA-2014-163223,KH-16690,2014-03-21,2014-03-25,4,"Standard Class","United States",Springfield,Virginia,22153,South
+719,CA-2014-163293,KC-16255,2014-09-08,2014-09-11,3,"First Class","United States",Macon,Georgia,31204,South
+720,CA-2014-163412,SM-20950,2014-12-20,2014-12-23,3,"Second Class","United States","New York City","New York",10035,East
+721,CA-2014-163419,TZ-21580,2014-11-11,2014-11-14,3,"Second Class","United States",Louisville,Colorado,80027,West
+722,CA-2014-163447,TB-21190,2014-12-27,2014-12-31,4,"Standard Class","United States","New York City","New York",10011,East
+723,CA-2014-163468,JK-15730,2014-11-18,2014-11-21,3,"First Class","United States","Des Plaines",Illinois,60016,Central
+724,CA-2014-163552,LA-16780,2014-07-11,2014-07-15,4,"Standard Class","United States",Hackensack,"New Jersey",7601,East
+725,CA-2014-163559,ST-20530,2014-09-23,2014-09-28,5,"Second Class","United States","New York City","New York",10035,East
+726,CA-2014-163650,TT-21220,2014-09-23,2014-09-25,2,"First Class","United States",Dover,Delaware,19901,East
+727,CA-2014-163748,HG-15025,2014-10-14,2014-10-18,4,"Standard Class","United States","Fort Worth",Texas,76106,Central
+728,CA-2014-163867,RE-19450,2014-06-03,2014-06-06,3,"First Class","United States",Decatur,Illinois,62521,Central
+729,CA-2014-164182,ST-20530,2014-07-14,2014-07-18,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+730,CA-2014-164210,PW-19240,2014-11-18,2014-11-20,2,"Second Class","United States",Louisville,Colorado,80027,West
+731,CA-2014-164224,TT-21070,2014-05-18,2014-05-20,2,"Second Class","United States",Akron,Ohio,44312,East
+732,CA-2014-164259,SP-20860,2014-12-28,2014-12-30,2,"First Class","United States",Philadelphia,Pennsylvania,19143,East
+733,CA-2014-164315,RD-19585,2014-04-02,2014-04-08,6,"Standard Class","United States",Athens,Georgia,30605,South
+734,CA-2014-164385,NB-18580,2014-09-26,2014-10-01,5,"Second Class","United States",Philadelphia,Pennsylvania,19134,East
+735,CA-2014-164469,GK-14620,2014-06-25,2014-06-27,2,"Second Class","United States",Salem,Oregon,97301,West
+736,CA-2014-164721,LW-16825,2014-11-25,2014-11-27,2,"Second Class","United States",Brentwood,California,94513,West
+737,CA-2014-164742,ML-17395,2014-10-13,2014-10-18,5,"Second Class","United States",Lakewood,"New Jersey",8701,East
+738,CA-2014-164749,BG-11740,2014-03-23,2014-03-26,3,"First Class","United States","Delray Beach",Florida,33445,South
+739,CA-2014-164861,MC-17635,2014-12-03,2014-12-06,3,"Second Class","United States","Saint Louis",Missouri,63116,Central
+740,CA-2014-164903,SR-20740,2014-02-20,2014-02-24,4,"Standard Class","United States","Los Angeles",California,90049,West
+741,CA-2014-164910,DM-13345,2014-11-12,2014-11-17,5,"Second Class","United States",Asheville,"North Carolina",28806,South
+742,CA-2014-164973,NM-18445,2014-11-04,2014-11-09,5,"Standard Class","United States","New York City","New York",10024,East
+743,CA-2014-165309,KD-16270,2014-11-11,2014-11-15,4,"Standard Class","United States",Houston,Texas,77095,Central
+744,CA-2014-165379,BM-11650,2014-07-09,2014-07-15,6,"Standard Class","United States",Dallas,Texas,75217,Central
+745,CA-2014-165393,NC-18415,2014-12-27,2014-12-30,3,"First Class","United States","Fort Worth",Texas,76106,Central
+746,CA-2014-165428,JL-15130,2014-09-01,2014-09-04,3,"First Class","United States",Houston,Texas,77036,Central
+747,CA-2014-165477,RE-19405,2014-12-29,2014-12-31,2,"Second Class","United States",Kent,Ohio,44240,East
+748,CA-2014-165540,TM-21010,2014-02-21,2014-02-25,4,"Standard Class","United States",Woodstock,Illinois,60098,Central
+749,CA-2014-165568,BF-11020,2014-02-15,2014-02-19,4,"Standard Class","United States",Seattle,Washington,98105,West
+750,CA-2014-165764,SH-20395,2014-11-03,2014-11-07,4,"Standard Class","United States",Jacksonville,"North Carolina",28540,South
+751,CA-2014-165806,VM-21685,2014-04-07,2014-04-07,0,"Same Day","United States",Marietta,Georgia,30062,South
+752,CA-2014-165974,DL-12865,2014-06-29,2014-07-06,7,"Standard Class","United States",Cincinnati,Ohio,45231,East
+753,CA-2014-166051,JK-15625,2014-05-31,2014-06-05,5,"Standard Class","United States",Jackson,Mississippi,39212,South
+754,CA-2014-166086,CT-11995,2014-05-07,2014-05-12,5,"Standard Class","United States",Lawrence,Massachusetts,1841,East
+755,CA-2014-166191,DK-13150,2014-12-05,2014-12-09,4,"Second Class","United States",Decatur,Illinois,62521,Central
+756,CA-2014-166457,PF-19120,2014-05-05,2014-05-09,4,"Second Class","United States",Richmond,Kentucky,40475,South
+757,CA-2014-166471,MG-17650,2014-08-09,2014-08-13,4,"Standard Class","United States",Seattle,Washington,98103,West
+758,CA-2014-166555,JK-15205,2014-07-11,2014-07-14,3,"First Class","United States","Niagara Falls","New York",14304,East
+759,CA-2014-166590,NC-18625,2014-10-29,2014-11-02,4,"Standard Class","United States",Columbus,Indiana,47201,Central
+760,CA-2014-166716,CR-12730,2014-08-20,2014-08-25,5,"Second Class","United States",Chicago,Illinois,60610,Central
+761,CA-2014-166730,DD-13570,2014-12-30,2015-01-01,2,"First Class","United States",Memphis,Tennessee,38109,South
+762,CA-2014-166744,DN-13690,2014-09-20,2014-09-24,4,"Standard Class","United States",Columbia,Maryland,21044,East
+763,CA-2014-166863,SC-20020,2014-06-20,2014-06-24,4,"Standard Class","United States",Plano,Texas,75023,Central
+764,CA-2014-166884,CK-12205,2014-03-11,2014-03-16,5,"Second Class","United States",Columbus,Ohio,43229,East
+765,CA-2014-166891,CC-12220,2014-10-04,2014-10-06,2,"First Class","United States","New York City","New York",10024,East
+766,CA-2014-166954,BT-11305,2014-04-25,2014-04-30,5,"Standard Class","United States","San Gabriel",California,91776,West
+767,CA-2014-166961,CD-12790,2014-12-27,2014-12-31,4,"Standard Class","United States","Moreno Valley",California,92553,West
+768,CA-2014-166989,RM-19675,2014-11-14,2014-11-18,4,"Standard Class","United States","New York City","New York",10011,East
+769,CA-2014-167164,AG-10270,2014-05-13,2014-05-15,2,"Second Class","United States","West Jordan",Utah,84084,West
+770,CA-2014-167199,ME-17320,2014-01-06,2014-01-10,4,"Standard Class","United States",Henderson,Kentucky,42420,South
+771,CA-2014-167360,RB-19435,2014-11-24,2014-11-29,5,"Second Class","United States","Saint Louis",Missouri,63116,Central
+772,CA-2014-167486,JO-15145,2014-11-27,2014-12-01,4,"Standard Class","United States",Buffalo,"New York",14215,East
+773,CA-2014-167724,BF-11170,2014-04-13,2014-04-18,5,"Standard Class","United States",Baltimore,Maryland,21215,East
+774,CA-2014-167850,AG-10525,2014-08-09,2014-08-16,7,"Standard Class","United States","Saint Petersburg",Florida,33710,South
+775,CA-2014-167927,XP-21865,2014-01-20,2014-01-26,6,"Standard Class","United States",Westland,Michigan,48185,Central
+776,CA-2014-167997,CA-11965,2014-01-26,2014-01-29,3,"First Class","United States","Rapid City","South Dakota",57701,Central
+777,CA-2014-168130,BS-11365,2014-09-19,2014-09-19,0,"Same Day","United States","New York City","New York",10011,East
+778,CA-2014-168305,PL-18925,2014-11-01,2014-11-08,7,"Standard Class","United States","Los Angeles",California,90049,West
+779,CA-2014-168312,GW-14605,2014-03-01,2014-03-07,6,"Standard Class","United States",Houston,Texas,77036,Central
+780,CA-2014-168368,GA-14725,2014-02-11,2014-02-15,4,"Second Class","United States",Columbia,Missouri,65203,Central
+781,CA-2014-168473,TB-21520,2014-12-26,2015-01-01,6,"Standard Class","United States","New York City","New York",10009,East
+782,CA-2014-168494,NP-18700,2014-12-12,2014-12-14,2,"Second Class","United States",Fresno,California,93727,West
+783,CA-2014-168592,DP-13390,2014-09-08,2014-09-14,6,"Standard Class","United States","San Francisco",California,94110,West
+784,CA-2014-168823,MA-17560,2014-09-21,2014-09-24,3,"First Class","United States",Philadelphia,Pennsylvania,19143,East
+785,CA-2014-168984,NW-18400,2014-11-26,2014-12-02,6,"Standard Class","United States",Tigard,Oregon,97224,West
+786,CA-2014-169019,LF-17185,2014-07-26,2014-07-30,4,"Standard Class","United States","San Antonio",Texas,78207,Central
+787,CA-2014-169033,KM-16720,2014-03-30,2014-04-03,4,"Standard Class","United States","Long Beach","New York",11561,East
+788,CA-2014-169061,AB-10150,2014-03-05,2014-03-08,3,"Second Class","United States",Yonkers,"New York",10701,East
+789,CA-2014-169257,SV-20785,2014-06-06,2014-06-12,6,"Standard Class","United States",Jacksonville,Florida,32216,South
+790,CA-2014-169446,SG-20605,2014-12-19,2014-12-25,6,"Standard Class","United States",Chicago,Illinois,60623,Central
+791,CA-2014-169460,NF-18595,2014-04-19,2014-04-21,2,"Second Class","United States","San Jose",California,95123,West
+792,CA-2014-169642,BB-10990,2014-07-27,2014-07-30,3,"Second Class","United States","Los Angeles",California,90036,West
+793,CA-2014-169649,TS-21205,2014-12-09,2014-12-15,6,"Standard Class","United States",Chicago,Illinois,60653,Central
+794,CA-2014-169684,FH-14365,2014-10-20,2014-10-23,3,"First Class","United States",Knoxville,Tennessee,37918,South
+795,CA-2014-169726,JH-15985,2014-08-09,2014-08-13,4,"Standard Class","United States",Seattle,Washington,98103,West
+796,CA-2014-169775,RA-19945,2014-08-29,2014-09-02,4,"Second Class","United States",Miami,Florida,33178,South
+797,CA-2014-169803,SC-20260,2014-04-06,2014-04-12,6,"Standard Class","United States",Seattle,Washington,98115,West
+798,CA-2014-169852,SF-20965,2014-10-21,2014-10-26,5,"Standard Class","United States","San Diego",California,92024,West
+799,CA-2015-100146,CB-12535,2015-05-14,2015-05-19,5,"Standard Class","United States",Camarillo,California,93010,West
+800,CA-2015-100216,HJ-14875,2015-04-13,2015-04-14,1,"First Class","United States",Mesa,Arizona,85204,West
+801,CA-2015-100251,DV-13465,2015-05-17,2015-05-23,6,"Standard Class","United States","Long Beach","New York",11561,East
+802,CA-2015-100454,BM-11650,2015-11-20,2015-11-25,5,"Standard Class","United States","New York City","New York",10035,East
+803,CA-2015-100545,IM-15070,2015-11-22,2015-11-26,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+804,CA-2015-100573,AM-10705,2015-09-25,2015-10-01,6,"Standard Class","United States","Los Angeles",California,90004,West
+805,CA-2015-100657,SW-20245,2015-11-02,2015-11-07,5,"Standard Class","United States",Troy,"New York",12180,East
+806,CA-2015-100685,SM-20950,2015-12-19,2015-12-21,2,"Second Class","United States",Omaha,Nebraska,68104,Central
+807,CA-2015-100734,AC-10615,2015-09-15,2015-09-20,5,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+808,CA-2015-100769,TH-21550,2015-05-16,2015-05-16,0,"Same Day","United States",Jacksonville,Florida,32216,South
+809,CA-2015-100818,JM-15265,2015-05-31,2015-06-05,5,"Second Class","United States",Chicago,Illinois,60653,Central
+810,CA-2015-100888,MH-17455,2015-04-06,2015-04-10,4,"Standard Class","United States",Jacksonville,"North Carolina",28540,South
+811,CA-2015-101000,IG-15085,2015-04-09,2015-04-14,5,"Standard Class","United States",Norwich,Connecticut,6360,East
+812,CA-2015-101007,MS-17980,2015-02-09,2015-02-13,4,"Second Class","United States",Dallas,Texas,75220,Central
+813,CA-2015-101091,SW-20245,2015-12-05,2015-12-09,4,"Second Class","United States",Philadelphia,Pennsylvania,19140,East
+814,CA-2015-101126,NB-18655,2015-02-10,2015-02-14,4,"Second Class","United States",Philadelphia,Pennsylvania,19143,East
+815,CA-2015-101154,CM-12190,2015-09-18,2015-09-21,3,"First Class","United States","San Diego",California,92105,West
+816,CA-2015-101707,PF-19165,2015-08-27,2015-09-01,5,"Standard Class","United States","San Diego",California,92105,West
+817,CA-2015-101868,MJ-17740,2015-06-09,2015-06-16,7,"Standard Class","United States",Miami,Florida,33178,South
+818,CA-2015-101889,DB-13120,2015-12-27,2015-12-31,4,"Standard Class","United States",Marion,Ohio,43302,East
+819,CA-2015-101910,CD-11920,2015-11-27,2015-12-03,6,"Standard Class","United States","Lake Elsinore",California,92530,West
+820,CA-2015-101924,KB-16585,2015-09-04,2015-09-09,5,"Standard Class","United States",Medford,Oregon,97504,West
+821,CA-2015-102015,TM-21010,2015-09-12,2015-09-18,6,"Standard Class","United States",Auburn,"New York",13021,East
+822,CA-2015-102036,CS-12130,2015-09-21,2015-09-27,6,"Standard Class","United States",Seattle,Washington,98105,West
+823,CA-2015-102260,SJ-20125,2015-09-22,2015-09-26,4,"Standard Class","United States",Franklin,Tennessee,37064,South
+824,CA-2015-102281,MP-17470,2015-10-12,2015-10-14,2,"First Class","United States","New York City","New York",10035,East
+825,CA-2015-102316,DH-13075,2015-03-01,2015-03-03,2,"Second Class","United States","Los Angeles",California,90045,West
+826,CA-2015-102491,KW-16435,2015-08-24,2015-08-28,4,"Standard Class","United States",Florence,Kentucky,41042,South
+827,CA-2015-102582,NW-18400,2015-09-15,2015-09-19,4,"Standard Class","United States",Mobile,Alabama,36608,South
+828,CA-2015-102722,KW-16570,2015-04-18,2015-04-19,1,"First Class","United States",Monroe,Louisiana,71203,South
+829,CA-2015-102778,JH-15820,2015-11-21,2015-11-24,3,"First Class","United States",Monroe,"North Carolina",28110,South
+830,CA-2015-102848,KB-16240,2015-11-07,2015-11-09,2,"Second Class","United States","Los Angeles",California,90036,West
+831,CA-2015-102855,JF-15415,2015-04-05,2015-04-06,1,"Same Day","United States",Spokane,Washington,99207,West
+832,CA-2015-102876,LR-17035,2015-09-07,2015-09-14,7,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+833,CA-2015-103072,HW-14935,2015-09-27,2015-09-30,3,"Second Class","United States",Detroit,Michigan,48205,Central
+834,CA-2015-103093,FO-14305,2015-02-03,2015-02-07,4,"Standard Class","United States",Columbus,Georgia,31907,South
+835,CA-2015-103135,SS-20515,2015-07-24,2015-07-28,4,"Standard Class","United States",Louisville,Kentucky,40214,South
+836,CA-2015-103177,EN-13780,2015-05-30,2015-06-01,2,"First Class","United States","New York City","New York",10009,East
+837,CA-2015-103205,JJ-15760,2015-12-08,2015-12-10,2,"Second Class","United States",Houston,Texas,77036,Central
+838,CA-2015-103716,KB-16585,2015-04-30,2015-05-06,6,"Standard Class","United States","San Francisco",California,94110,West
+839,CA-2015-103723,BT-11305,2015-12-01,2015-12-06,5,"Standard Class","United States",Seattle,Washington,98105,West
+840,CA-2015-103772,MP-17470,2015-06-28,2015-07-02,4,"Standard Class","United States",Smyrna,Georgia,30080,South
+841,CA-2015-103793,BV-11245,2015-03-26,2015-03-31,5,"Standard Class","United States",Miami,Florida,33142,South
+842,CA-2015-103835,SC-20440,2015-09-24,2015-09-28,4,"Standard Class","United States","Los Angeles",California,90032,West
+843,CA-2015-103870,SP-20860,2015-12-27,2015-12-31,4,"Standard Class","United States",Murfreesboro,Tennessee,37130,South
+844,CA-2015-103933,DR-12880,2015-09-25,2015-09-27,2,"First Class","United States","New York City","New York",10011,East
+845,CA-2015-103954,HR-14770,2015-08-09,2015-08-13,4,"Second Class","United States",Milwaukee,Wisconsin,53209,Central
+846,CA-2015-103961,NG-18430,2015-11-05,2015-11-09,4,"Standard Class","United States",Quincy,Illinois,62301,Central
+847,CA-2015-104038,LO-17170,2015-02-06,2015-02-08,2,"First Class","United States",Suffolk,Virginia,23434,South
+848,CA-2015-104052,TP-21565,2015-03-01,2015-03-02,1,"First Class","United States",Coppell,Texas,75019,Central
+849,CA-2015-104059,FC-14245,2015-06-13,2015-06-15,2,"Second Class","United States",Springfield,Ohio,45503,East
+850,CA-2015-104115,JH-15910,2015-06-12,2015-06-16,4,"Standard Class","United States","West Palm Beach",Florida,33407,South
+851,CA-2015-104129,ES-14080,2015-02-27,2015-03-02,3,"Standard Class","United States",Providence,"Rhode Island",2908,East
+852,CA-2015-104241,AG-10495,2015-01-04,2015-01-09,5,"Standard Class","United States",Alexandria,Virginia,22304,South
+853,CA-2015-104297,CC-12100,2015-05-29,2015-05-31,2,"First Class","United States",Cleveland,Ohio,44105,East
+854,CA-2015-104346,IM-15070,2015-12-11,2015-12-16,5,"Standard Class","United States","Colorado Springs",Colorado,80906,West
+855,CA-2015-104486,PO-18850,2015-05-01,2015-05-06,5,"Standard Class","United States","San Francisco",California,94109,West
+856,CA-2015-104493,EB-13705,2015-10-02,2015-10-08,6,"Standard Class","United States","San Diego",California,92105,West
+857,CA-2015-104514,CB-12535,2015-01-02,2015-01-04,2,"Second Class","United States",Newark,Delaware,19711,East
+858,CA-2015-104626,DR-12940,2015-09-01,2015-09-08,7,"Standard Class","United States",Franklin,Massachusetts,2038,East
+859,CA-2015-104871,DR-12940,2015-03-30,2015-04-03,4,"Standard Class","United States",Normal,Illinois,61761,Central
+860,CA-2015-104941,DH-13075,2015-06-13,2015-06-19,6,"Standard Class","United States",Decatur,Alabama,35601,South
+861,CA-2015-104948,KH-16510,2015-11-13,2015-11-17,4,"Standard Class","United States","San Bernardino",California,92404,West
+862,CA-2015-105102,BM-11575,2015-09-15,2015-09-19,4,"Second Class","United States","New York City","New York",10035,East
+863,CA-2015-105158,SP-20860,2015-09-05,2015-09-10,5,"Standard Class","United States",Rochester,Minnesota,55901,Central
+864,CA-2015-105221,VM-21685,2015-11-01,2015-11-03,2,"First Class","United States",Philadelphia,Pennsylvania,19140,East
+865,CA-2015-105312,MT-17815,2015-11-06,2015-11-09,3,"First Class","United States",Scottsdale,Arizona,85254,West
+866,CA-2015-105347,DP-13000,2015-11-24,2015-11-28,4,"Standard Class","United States","Los Angeles",California,90004,West
+867,CA-2015-105508,JF-15190,2015-09-24,2015-09-29,5,"Standard Class","United States","New York City","New York",10035,East
+868,CA-2015-105571,CP-12340,2015-11-07,2015-11-11,4,"Standard Class","United States",Miami,Florida,33142,South
+869,CA-2015-105599,MC-17275,2015-09-07,2015-09-07,0,"Same Day","United States","New York City","New York",10011,East
+870,CA-2015-105613,KN-16705,2015-10-18,2015-10-22,4,"Standard Class","United States",Mcallen,Texas,78501,Central
+871,CA-2015-105627,DK-12895,2015-03-08,2015-03-12,4,"Standard Class","United States",Kenosha,Wisconsin,53142,Central
+872,CA-2015-105634,HA-14905,2015-11-08,2015-11-14,6,"Standard Class","United States",Franklin,Massachusetts,2038,East
+873,CA-2015-105690,CA-11965,2015-11-21,2015-11-26,5,"Second Class","United States","Port Arthur",Texas,77642,Central
+874,CA-2015-105725,GT-14755,2015-02-18,2015-02-24,6,"Standard Class","United States","Long Beach",California,90805,West
+875,CA-2015-105844,JF-15415,2015-10-25,2015-10-27,2,"Second Class","United States",Sparks,Nevada,89431,West
+876,CA-2015-105970,PA-19060,2015-03-02,2015-03-07,5,"Standard Class","United States",Richmond,Indiana,47374,Central
+877,CA-2015-106187,RF-19345,2015-06-23,2015-06-29,6,"Standard Class","United States","East Point",Georgia,30344,South
+878,CA-2015-106208,JW-16075,2015-12-10,2015-12-15,5,"Standard Class","United States",Chicago,Illinois,60610,Central
+879,CA-2015-106215,BN-11470,2015-04-16,2015-04-21,5,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East
+880,CA-2015-106257,EB-14110,2015-04-13,2015-04-17,4,"Second Class","United States","Los Angeles",California,90045,West
+881,CA-2015-106320,EB-13870,2015-09-25,2015-09-30,5,"Standard Class","United States",Orem,Utah,84057,West
+882,CA-2015-106362,LC-16885,2015-12-11,2015-12-15,4,"Standard Class","United States",Troy,Ohio,45373,East
+883,CA-2015-106565,BW-11110,2015-03-20,2015-03-23,3,"First Class","United States",Milwaukee,Wisconsin,53209,Central
+884,CA-2015-106978,ZC-21910,2015-09-28,2015-10-04,6,"Standard Class","United States",Aurora,Colorado,80013,West
+885,CA-2015-107020,MV-18190,2015-07-10,2015-07-14,4,"Standard Class","United States","San Bernardino",California,92404,West
+886,CA-2015-107083,BB-11545,2015-11-21,2015-11-27,6,"Standard Class","United States","Fort Worth",Texas,76106,Central
+887,CA-2015-107468,MK-17905,2015-12-18,2015-12-22,4,"Standard Class","United States",Louisville,Colorado,80027,West
+888,CA-2015-107678,JK-16090,2015-04-21,2015-04-28,7,"Standard Class","United States",Louisville,Kentucky,40214,South
+889,CA-2015-107685,JM-15865,2015-11-30,2015-12-02,2,"Second Class","United States","Las Vegas",Nevada,89115,West
+890,CA-2015-107741,FC-14335,2015-03-08,2015-03-10,2,"First Class","United States",Pueblo,Colorado,81001,West
+891,CA-2015-107902,SM-20950,2015-08-28,2015-09-02,5,"Standard Class","United States",Fairfield,Connecticut,6824,East
+892,CA-2015-108119,MS-17530,2015-11-01,2015-11-08,7,"Standard Class","United States",Conway,Arkansas,72032,South
+893,CA-2015-108259,NS-18640,2015-11-08,2015-11-15,7,"Standard Class","United States",Jacksonville,"North Carolina",28540,South
+894,CA-2015-108532,CC-12100,2015-08-29,2015-09-02,4,"Standard Class","United States",Detroit,Michigan,48234,Central
+895,CA-2015-108588,BG-11695,2015-01-05,2015-01-10,5,"Standard Class","United States","New York City","New York",10009,East
+896,CA-2015-108665,KM-16225,2015-07-06,2015-07-10,4,"Standard Class","United States","New York City","New York",10011,East
+897,CA-2015-108672,FA-14230,2015-09-10,2015-09-16,6,"Standard Class","United States","Los Angeles",California,90032,West
+898,CA-2015-109001,KN-16390,2015-03-05,2015-03-09,4,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East
+899,CA-2015-109113,EK-13795,2015-12-19,2015-12-23,4,"Standard Class","United States",Chicago,Illinois,60610,Central
+900,CA-2015-109169,OT-18730,2015-04-20,2015-04-24,4,"Standard Class","United States",Detroit,Michigan,48234,Central
+901,CA-2015-109190,CC-12685,2015-10-23,2015-10-28,5,"Standard Class","United States",Lubbock,Texas,79424,Central
+902,CA-2015-109197,JO-15280,2015-12-31,2016-01-04,4,"Standard Class","United States",Missoula,Montana,59801,West
+903,CA-2015-109337,DL-13330,2015-11-21,2015-11-23,2,"Second Class","United States",Lawrence,Indiana,46226,Central
+904,CA-2015-109386,RH-19600,2015-11-08,2015-11-13,5,"Second Class","United States",Hampton,Virginia,23666,South
+905,CA-2015-109470,KC-16255,2015-12-31,2016-01-03,3,"Second Class","United States",Henderson,Kentucky,42420,South
+906,CA-2015-109512,LF-17185,2015-03-05,2015-03-05,0,"Same Day","United States","New York City","New York",10011,East
+907,CA-2015-109575,KH-16630,2015-09-18,2015-09-23,5,"Standard Class","United States",Clinton,Maryland,20735,East
+908,CA-2015-109603,EM-13825,2015-01-26,2015-02-01,6,"Standard Class","United States","Moreno Valley",California,92553,West
+909,CA-2015-109638,JH-15985,2015-12-15,2015-12-22,7,"Standard Class","United States",Seattle,Washington,98115,West
+910,CA-2015-109708,CY-12745,2015-05-25,2015-05-28,3,"Second Class","United States",Columbia,Tennessee,38401,South
+911,CA-2015-109736,DJ-13420,2015-10-10,2015-10-11,1,"First Class","United States","San Francisco",California,94109,West
+912,CA-2015-109862,HK-14890,2015-10-25,2015-10-30,5,"Standard Class","United States",Newark,Delaware,19711,East
+913,CA-2015-109939,AA-10375,2015-05-08,2015-05-12,4,"Standard Class","United States",Salem,Oregon,97301,West
+914,CA-2015-110016,BT-11395,2015-11-29,2015-12-04,5,"Standard Class","United States",Detroit,Michigan,48227,Central
+915,CA-2015-110093,AB-10255,2015-12-03,2015-12-08,5,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East
+916,CA-2015-110247,RH-19555,2015-12-04,2015-12-08,4,"Standard Class","United States",Tallahassee,Florida,32303,South
+917,CA-2015-110289,NB-18655,2015-10-29,2015-11-02,4,"Standard Class","United States","San Francisco",California,94109,West
+918,CA-2015-110324,MA-17560,2015-12-01,2015-12-05,4,"Standard Class","United States",Jackson,Michigan,49201,Central
+919,CA-2015-110345,TG-21310,2015-03-09,2015-03-11,2,"Second Class","United States",Raleigh,"North Carolina",27604,South
+920,CA-2015-110457,DK-13090,2015-03-02,2015-03-06,4,"Standard Class","United States",Seattle,Washington,98103,West
+921,CA-2015-110548,AH-10690,2015-05-04,2015-05-08,4,"Standard Class","United States",Houston,Texas,77095,Central
+922,CA-2015-110632,HR-14830,2015-03-17,2015-03-22,5,"Second Class","United States","New York City","New York",10009,East
+923,CA-2015-110667,NF-18595,2015-04-04,2015-04-08,4,"Standard Class","United States","New York City","New York",10009,East
+924,CA-2015-110744,HA-14920,2015-09-07,2015-09-12,5,"Standard Class","United States",Pasadena,California,91104,West
+925,CA-2015-110765,MP-17965,2015-10-16,2015-10-20,4,"Second Class","United States","New York City","New York",10011,East
+926,CA-2015-110814,BD-11635,2015-12-05,2015-12-09,4,"Second Class","United States","New York City","New York",10009,East
+927,CA-2015-110863,AA-10645,2015-11-17,2015-11-24,7,"Standard Class","United States","Oklahoma City",Oklahoma,73120,Central
+928,CA-2015-110870,KD-16270,2015-12-12,2015-12-15,3,"First Class","United States","Los Angeles",California,90032,West
+929,CA-2015-110877,JE-15715,2015-10-23,2015-10-26,3,"First Class","United States",Houston,Texas,77041,Central
+930,CA-2015-110891,PO-19195,2015-11-20,2015-11-24,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+931,CA-2015-110947,AG-10765,2015-06-09,2015-06-15,6,"Standard Class","United States",Hampton,Virginia,23666,South
+932,CA-2015-111017,SC-20695,2015-07-31,2015-08-06,6,"Standard Class","United States","Saint Louis",Missouri,63116,Central
+933,CA-2015-111038,LC-16960,2015-12-01,2015-12-06,5,"Standard Class","United States","San Diego",California,92037,West
+934,CA-2015-111073,MC-18100,2015-12-26,2015-12-30,4,"Standard Class","United States",Medina,Ohio,44256,East
+935,CA-2015-111094,CB-12535,2015-07-09,2015-07-13,4,"Standard Class","United States",Franklin,Massachusetts,2038,East
+936,CA-2015-111164,SE-20110,2015-04-11,2015-04-15,4,"Standard Class","United States","New York City","New York",10009,East
+937,CA-2015-111199,JK-15730,2015-11-13,2015-11-17,4,"Standard Class","United States",Jacksonville,"North Carolina",28540,South
+938,CA-2015-111206,RF-19735,2015-07-18,2015-07-22,4,"Standard Class","United States","San Diego",California,92105,West
+939,CA-2015-111234,AB-10600,2015-02-18,2015-02-22,4,"Standard Class","United States","Los Angeles",California,90004,West
+940,CA-2015-111297,SC-20440,2015-08-17,2015-08-21,4,"Standard Class","United States","New Bedford",Massachusetts,2740,East
+941,CA-2015-111325,BT-11395,2015-02-27,2015-02-28,1,"First Class","United States",Altoona,Pennsylvania,16602,East
+942,CA-2015-111339,VP-21760,2015-05-29,2015-05-31,2,"First Class","United States",Columbus,Ohio,43229,East
+943,CA-2015-111395,VB-21745,2015-11-23,2015-11-27,4,"Standard Class","United States","San Antonio",Texas,78207,Central
+944,CA-2015-111458,PF-19165,2015-09-26,2015-09-30,4,"Standard Class","United States","New York City","New York",10035,East
+945,CA-2015-111507,VW-21775,2015-02-06,2015-02-13,7,"Standard Class","United States",Bellevue,Washington,98006,West
+946,CA-2015-111514,SC-20260,2015-08-31,2015-09-02,2,"First Class","United States","San Francisco",California,94122,West
+947,CA-2015-111612,EB-14110,2015-11-28,2015-12-02,4,"Standard Class","United States",Columbus,Ohio,43229,East
+948,CA-2015-111703,KB-16315,2015-07-02,2015-07-09,7,"Standard Class","United States",Hollywood,Florida,33021,South
+949,CA-2015-111780,RA-19285,2015-12-25,2015-12-30,5,"Second Class","United States","San Diego",California,92037,West
+950,CA-2015-111829,FH-14365,2015-03-19,2015-03-20,1,"First Class","United States",Seattle,Washington,98115,West
+951,CA-2015-111864,PP-18955,2015-06-19,2015-06-19,0,"Same Day","United States",Philadelphia,Pennsylvania,19134,East
+952,CA-2015-111948,AG-10495,2015-11-11,2015-11-11,0,"Same Day","United States",Detroit,Michigan,48234,Central
+953,CA-2015-111990,DB-13660,2015-11-08,2015-11-13,5,"Standard Class","United States",Houston,Texas,77095,Central
+954,CA-2015-112014,ON-18715,2015-08-13,2015-08-20,7,"Standard Class","United States",Yucaipa,California,92399,West
+955,CA-2015-112053,SH-20395,2015-10-11,2015-10-13,2,"Second Class","United States",Rochester,"New York",14609,East
+956,CA-2015-112116,JE-15475,2015-03-16,2015-03-18,2,"Second Class","United States",Seattle,Washington,98103,West
+957,CA-2015-112130,SV-20785,2015-05-03,2015-05-07,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+958,CA-2015-112144,CY-12745,2015-06-28,2015-07-02,4,"Standard Class","United States",Gilbert,Arizona,85234,West
+959,CA-2015-112214,AH-10690,2015-08-05,2015-08-11,6,"Standard Class","United States",Dallas,Texas,75220,Central
+960,CA-2015-112305,KB-16405,2015-11-20,2015-11-25,5,"Standard Class","United States",Seattle,Washington,98105,West
+961,CA-2015-112319,AR-10510,2015-08-31,2015-09-05,5,"Standard Class","United States","Los Angeles",California,90004,West
+962,CA-2015-112375,RD-19720,2015-12-21,2015-12-27,6,"Standard Class","United States","Daytona Beach",Florida,32114,South
+963,CA-2015-112452,NC-18340,2015-04-04,2015-04-04,0,"Same Day","United States",Lansing,Michigan,48911,Central
+964,CA-2015-112522,DP-13165,2015-10-10,2015-10-17,7,"Standard Class","United States",Chicago,Illinois,60610,Central
+965,CA-2015-112557,JL-15850,2015-04-25,2015-04-28,3,"First Class","United States","New York City","New York",10035,East
+966,CA-2015-112571,DL-12925,2015-09-22,2015-09-22,0,"Same Day","United States",Oceanside,California,92054,West
+967,CA-2015-112711,FM-14380,2015-07-12,2015-07-18,6,"Standard Class","United States",Amarillo,Texas,79109,Central
+968,CA-2015-112767,DK-12985,2015-08-02,2015-08-06,4,"Standard Class","United States",Springfield,Oregon,97477,West
+969,CA-2015-112823,RA-19945,2015-12-10,2015-12-16,6,"Standard Class","United States",Cleveland,Ohio,44105,East
+970,CA-2015-113040,CC-12100,2015-08-27,2015-08-31,4,"Standard Class","United States","Los Angeles",California,90045,West
+971,CA-2015-113110,BK-11260,2015-03-19,2015-03-23,4,"Standard Class","United States","San Bernardino",California,92404,West
+972,CA-2015-113131,MB-17305,2015-09-24,2015-09-24,0,"Same Day","United States",Columbus,Ohio,43229,East
+973,CA-2015-113145,VD-21670,2015-11-01,2015-11-05,4,"Standard Class","United States","New York City","New York",10011,East
+974,CA-2015-113152,JK-15625,2015-12-25,2015-12-30,5,"Standard Class","United States","New York City","New York",10024,East
+975,CA-2015-113173,DK-13225,2015-11-15,2015-11-17,2,"Second Class","United States",Chicago,Illinois,60653,Central
+976,CA-2015-113222,AG-10765,2015-11-09,2015-11-09,0,"Same Day","United States",Lawrence,Indiana,46226,Central
+977,CA-2015-113404,EM-13810,2015-07-16,2015-07-16,0,"Same Day","United States","San Francisco",California,94122,West
+978,CA-2015-113523,SC-20440,2015-09-04,2015-09-08,4,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East
+979,CA-2015-113628,AH-10690,2015-11-12,2015-11-19,7,"Standard Class","United States",Plantation,Florida,33317,South
+980,CA-2015-113740,SC-20380,2015-08-24,2015-08-28,4,"Second Class","United States","New York City","New York",10035,East
+981,CA-2015-113901,NH-18610,2015-10-19,2015-10-24,5,"Standard Class","United States",Detroit,Michigan,48227,Central
+982,CA-2015-113971,CB-12535,2015-05-08,2015-05-14,6,"Standard Class","United States","Cuyahoga Falls",Ohio,44221,East
+983,CA-2015-114048,EH-13945,2015-12-14,2015-12-18,4,"Standard Class","United States","Costa Mesa",California,92627,West
+984,CA-2015-114069,ND-18370,2015-07-13,2015-07-15,2,"Second Class","United States","New York City","New York",10035,East
+985,CA-2015-114237,MC-17275,2015-03-13,2015-03-15,2,"First Class","United States",Seattle,Washington,98103,West
+986,CA-2015-114300,AF-10885,2015-10-13,2015-10-17,4,"Standard Class","United States",Louisville,Kentucky,40214,South
+987,CA-2015-114468,TD-20995,2015-08-23,2015-08-23,0,"Same Day","United States",Bolingbrook,Illinois,60440,Central
+988,CA-2015-114503,AA-10375,2015-11-13,2015-11-17,4,"Standard Class","United States",Lebanon,Tennessee,37087,South
+989,CA-2015-114811,KD-16495,2015-11-08,2015-11-08,0,"Same Day","United States","New York City","New York",10024,East
+990,CA-2015-114923,LH-17020,2015-02-08,2015-02-13,5,"Standard Class","United States",Columbus,Ohio,43229,East
+991,CA-2015-115091,JJ-15760,2015-10-05,2015-10-09,4,"Standard Class","United States",Springfield,Virginia,22153,South
+992,CA-2015-115168,BB-11545,2015-06-05,2015-06-09,4,"Standard Class","United States","Saint Charles",Missouri,63301,Central
+993,CA-2015-115392,RM-19675,2015-10-01,2015-10-04,3,"Second Class","United States",Cambridge,Massachusetts,2138,East
+994,CA-2015-115399,AG-10900,2015-12-19,2015-12-22,3,"First Class","United States",Philadelphia,Pennsylvania,19134,East
+995,CA-2015-115420,LS-16945,2015-04-25,2015-05-02,7,"Standard Class","United States","Los Angeles",California,90004,West
+996,CA-2015-115511,NW-18400,2015-11-21,2015-11-25,4,"Standard Class","United States","Las Vegas",Nevada,89115,West
+997,CA-2015-115567,ZC-21910,2015-09-13,2015-09-18,5,"Standard Class","United States",Columbus,Indiana,47201,Central
+998,CA-2015-115693,FC-14245,2015-12-10,2015-12-15,5,"Standard Class","United States","Los Angeles",California,90032,West
+999,CA-2015-115742,DP-13000,2015-04-18,2015-04-22,4,"Standard Class","United States","New Albany",Indiana,47150,Central
+1000,CA-2015-115798,KL-16645,2015-11-13,2015-11-19,6,"Standard Class","United States",Newark,Delaware,19711,East
