@@ -1,0 +1,195 @@
+RAW_CUSTOMERS = ['CustomerKey', 'Gender', 'Name', 'City', 'State Code', 'State',
+       'Zip Code', 'Country', 'Continent', 'Birthday']
+
+### 🧹Cleaning Steps on RAW_CUSTOMERS data🧹
+- Clean the data by trimming and Title way.
+- No Duplicates and No Null values found.
+- Birthday is in object type and changing to Date type.
+- Only 10 Nulls found in State Code column that too explicity from state Napoli 
+- so we are impute with 'NA' as it is the standard Italian province code for Napoli.
+
+## Observations on Raw_customers
+Gender - Gender having almost equal distribution with 50.75% and 49.25%
+Name   - The dataset has 15,118 unique names out of 15,266 total entries, with 148 repetitions, 
+          showing some names appear multiple times.
+       - Names like "John Smith" repeat due to different customers sharing common names 
+  	  (unique CustomerKey, varying locations, and birthdates), 
+          not indicating duplicates or repeat customers.
+Country -Most of the customers are from US(44%) and least from Italy(4%).
+Continent-Most of the Customers are from NorthAmerica(55%) and least from Australia(9%).
+----------------------------------------------------------------------------------------------------------------
+RAW_PRODUCTS = ['ProductKey', 'Product Name', 'Brand', 'Color', 'Unit Cost USD',
+       'Unit Price USD', 'SubcategoryKey', 'Subcategory', 'CategoryKey','Category']
+
+### 🧹Cleaning Steps on RAW_PRODUCTS data🧹
+- Clean the data by trimming and Title way.
+- No Duplicates and No Null values
+- Unit Price USD and Unit Cost USD in Object have to remove the $ and convert into float.
+
+## Observations on Raw_products
+Product_Name - We have 2517 unique Products.
+brand - Contoso dominates with the highest product count (710) and total costs/prices, indicating strong volume and financial impact.
+      - Fabrikam leads in average prices ($447), positioning it as a premium brand with high margins($220).
+      - Budget brands like Tailspin Toys show low averages, while Northwind Traders has high costs relative to prices, suggesting potential pricing review as they are in Negative Profits.
+color - Black dominates with 602 products (23.92%), making it the top choice.
+      - White follows at 20.06%, then Silver at 16.57% and least is Purple and Transparent with less than (0.2%)
+      - Preference for neutral colors like black, white, and silver, likely for wide appeal and easy styling.
+category - Home Appliances tops the list with 661 sales (26.26%), followed by Computers with 606 sales (24.08%).
+         - The lowest-performing category is Music, Movies and Audio Books, contributing 90 sales (3.58%).
+sub category - Computer Accessories leads all subcategories with 201 sales (7.99%), followed by Lamps with 158 sales (6.28%).
+             - On the lower end, Recording Pen has the least contribution with only 20 sales (0.79%).
+--------------------------------------------------------------------------------------------------------------------
+RAW_STORES = ['StoreKey', 'Country', 'State', 'Square Meters', 'Open Date']
+
+### 🧹Cleaning Steps on RAW_STORES data🧹
+- Clean the data by trimming and Title way.
+- No Duplicates and Only 1 Null value in Square Metres column.
+- We are DROPPING StoreKey 0 looks like a placeholder or an invalid entry,Country and State are both "Online" — not a real geographic location.
+- Open Date is in Object and have to convert to Datetime type.
+
+## Observations on Raw_stores
+Country - Most of the Stores are from USA followed by Germany , UK and least by Italy.
+States - Each state had one Store thats total of spread over 66 states.
+----------------------------------------------------------------------------------------------------------------------
+RAW_SALES = ['Order Number', 'Line Item', 'Order Date', 'Delivery Date',
+       'CustomerKey', 'StoreKey', 'ProductKey', 'Quantity', 'Currency Code']
+
+### 🧹Cleaning Steps on RAW_SALES data🧹
+- Trimmed text columns and converted to Title case.
+- No duplicate rows; only Delivery Date had missing values.
+- Converted Order Date and Delivery Date from object to datetime type.
+- Filled missing Delivery Date with Order Date + 7 days as a best-estimate.
+- Added a flag column to mark imputed delivery dates (useful for ML or analysis).
+
+## Observations on Raw_sales
+Currency Code - most sales are in USD, but a significant portion comes from Europe and other regions.
+Quantity - Most products are sold in USD, reflecting the dominance of the US market, while Europe and other regions contribute smaller portions of total quantity.
+         - Most customers buy 1–3 units per order (~68%), showing that purchases are generally small and individual-focused.
+         - Medium to large orders (4–10 units, ~32%) are less common, indicating bulk or wholesale purchases are minimal.
+Order date - Orders grew each year from 2016 to 2019, peaking at 21,611.
+           - In 2020 and 2021, the number of orders declined noticeably due to Covid.
+Line Item - Most of orders come from the top three line items, making up nearly 85% of total orders.
+	  - This means we rely heavily on a few key segments for volume.
+          - The remaining items have much lower order counts and may need attention to grow or optimize.
+-------------------------------------------------------------------------------------------------------------------------------
+RAW_EXCHANGE = ['Date', 'Currency', 'Exchange']
+
+### 🧹Cleaning Steps on RAW_EXCHANGE data🧹
+- Trimmed text columns and converted to Title case.
+- No duplicate rows and No NUll values.
+- Converted Date from object to datetime type.
+
+## Observations on Raw_Exchange
+- All Five currency types equal number of counts.
+- As it is supporting dataset so it had equal distribution.
+
+------------------------------------------------------------------------------------------------------------------------
+
+CUSTOMER INSIGHTS Key Findings: 44% of customers are from the US → Strong market dominance. 
+55% of customers belong to North America. Gender distribution is balanced (~51% vs 49%). 
+Italy contributes only 4% → Growth opportunity.
+ Recommendations: Focus on high-performing US regions. Expand marketing in Italy and Australia. 
+PRODUCT & PRICING INSIGHTS Key Findings: Contoso leads in product volume and revenue. 
+Fabrikam positioned as premium with strong margins. Northwind Traders shows pricing/margin concerns
+. Home Appliances (26%) and Computers (24%) lead sales. Neutral colors dominate demand (60%).
+ Recommendations: Revise pricing strategy for low-margin brands.
+ Promote premium products aggressively. Reduce focus on underperforming categories.
+ SALES & ORDER BEHAVIOR Key Findings: Orders grew steadily until 2019; 
+declined in 2020–21 (COVID impact). 68% of customers purchase 1–3 units → Mostly individual buyers. 
+85% of sales depend on top 3 line items → Concentration risk. USD dominates transactions. 
+Recommendations: Diversify sales across more products. Strengthen European marketing strategy. 
+STORE & GEOGRAPHIC INSIGHTS Key Findings: Majority of stores are in the USA. Limited presence in Italy. 
+Moderate presence in Germany and UK. Recommendations: Expand strategically in high-demand regions. 
+Develop integrated online & offline sales strategy EXCHANGE RATE INSIGHTS Key Findings: Equal distribution across five currencies. 
+Good international exposure. Recommendations: Implement dynamic pricing. Manage currency risk effectively. 
+🏁 FINAL CONCLUSION Strong US dominance with high-performing product categories. Risks include product concentration and margin pressure. 
+Growth lies in premium expansion, geographic diversification, pricing optimization, and increasing basket size.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Database Creation
+- Created global_electronics_db.
+- Switched to the database and confirmed no existing tables.
+
+-- Enabled Local File Loading
+- Set local_infile = 1 for LOAD DATA INFILE.
+- Verified secure_file_priv for file placement.
+
+-- Customers Table
+- Created customers with DATE type for Birthday.
+- Loaded CSV; verified row counts and sample rows.
+- Cleaned: trimmed strings, title case, imputed 10 missing StateCode as 'NA'.
+- Key SQL analyses:
+  - Count by Country & State.
+  - Gender distribution & percentages.
+  - Customers by age groups using TIMESTAMPDIFF.
+  - Top cities by customer count.
+  - Oldest and youngest customers.
+  - Procedure to count customers born before a specific year.
+
+-- Products Table
+- Created products with decimal columns for UnitCostUSD and UnitPriceUSD.
+- Cleaned: removed $ and converted to numeric.
+- Key SQL analyses:
+  - Top products by quantity sold.
+  - Highest revenue-generating products.
+  - Average price per category.
+  - Brand sales, color popularity, category performance.
+  - Profit per product & highest profit margin.
+
+-- Sales Table
+- Created sales with DATE columns for OrderDate and DeliveryDate.
+- Filled missing DeliveryDate with OrderDate + 7 days.
+- Added DeliveryDateMissing flag.
+- Key SQL analyses:
+  - Total orders & quantity sold.
+  - Orders by currency.
+  - Average quantity per order.
+  - Orders by date (top order dates).
+  - Revenue trend by month/day, growth/decline analysis.
+  - Average delivery time.
+  - Identify delayed vs on-time orders (can extend using DeliveryDateMissing).
+
+-- Exchange Rates Table
+- Created exchange_rates with DATE column for Date.
+- Loaded CSV and verified counts.
+- Used for currency conversion in all revenue/profit calculations.
+
+-- Stores Table
+- Created stores with OpenDate as DATE.
+- Dropped placeholder store (StoreKey = 0, Online).
+- Key SQL analyses:
+  - Stores with highest orders & quantities.
+  - Effect of store size on sales.
+  - Country & state store counts; cumulative store counts.
+  - Average sales per store.
+  - Underperforming stores by revenue, orders, and profit.
+
+-- Advanced Analyses / Joins
+- Customer-Product-Sales Insights:
+  - Customers buying most expensive products.
+  - Products frequently bought together.
+  - Customer lifetime value / highest revenue customers.
+  - States generating most revenue.
+  - Most popular brand per country.
+- Business Insights:
+  - Top 10 customers by revenue.
+  - Top 5 best-selling products.
+  - Category focus for revenue, orders, and profit.
+
+-- Data Quality Checks
+- Missing delivery dates count.
+- Duplicate order numbers.
+- Products with missing UnitCostUSD or UnitPriceUSD.
+- Null customer birthdays (none found).
+
+-- Views for Analytics
+- Created customer views: dim_customer_age_group, dim_customer_geography.
+- Created sales summary views: sales_summary_view, currency_converted_sales_view.
+- Created product views: product_details_view, product_performance_view, top_products_per_category_view, bottom_products_per_category_view.
+- Created revenue & profit views: revenue_view, customer_lifetime_value_view.
+- Created store views: store_sales_view, store_performance_rank_view.
+- Created time-based views: time_analysis_view, monthly_growth_view.
+- Created customer-sales views: customer_sales_view.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- powerbi
