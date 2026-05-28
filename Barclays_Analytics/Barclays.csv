@@ -1,0 +1,21 @@
+﻿Number,Assigned to,Incident Description,Caller ID,Location,Opened on date,Closed on date
+1,John Anderson,Unable to Connect,Sarah Nguyen,London,14/07/2022 13:04,14/09/2022 10:09
+2,Sanjay Gupta,Unable to Connect,Elijah Patel,Manchester,14/07/2022 15:36,07/09/2022 09:04
+3,Michael Davis,System Crash,Isaac Cohen,Newcastle upon Tyne,15/07/2022 10:01,07/09/2022 09:04
+4,Sarah Johnson,Distorted Audio,Connor Kim,Glasgow,15/07/2022 14:26,14/09/2022 10:02
+5,Raj Patel,Call Quality,Layla Ali,Manchester,16/07/2022 11:38,14/09/2022 10:04
+6,Laura Martin,Call Quality,Ellie Lewis,Liverpool,16/07/2022 16:22,07/09/2022 12:54
+7,James Wilson,Call Quality,Zara Khan,Bristol,16/07/2022 09:12,07/09/2022 13:10
+8,Zhang Wei,System Crash,Gabriel Silva,Manchester,17/07/2022 12:30,15/09/2022 10:01
+9,Christopher Moore,Distorted Audio,Mila Jones,Sheffield,18/07/2022 09:45,14/09/2022 10:06
+10,Jessica Lee,Distorted Audio,Isaac Cohen,Newcastle upon Tyne,18/07/2022 11:09,16/09/2022 11:02
+11,Rina Yamashita,Toolbar Issue,Nadia Roberts,Cardiff,18/07/2022 12:15,12/09/2022 09:04
+12,Megan Harris,Toolbar Issue,Julian Ortiz,Birmingham,18/07/2022 15:30,12/09/2022 09:01
+13,Sofia Martinez,Unable to Accept Call,Amara Choudhury,London,20/07/2022 10:37,12/09/2022 10:04
+14,Emma Scott,Unable to Accept Call,Oscar Andersen,Manchester,20/07/2022 14:00,12/09/2022 09:04
+15,Andrew Clark,Headset Issue,Sofia Tickle,Southampton,21/07/2022 09:30,09/09/2022 17:04
+16,Olivia Walker,Call Quality,Kai Peters,Liverpool,21/07/2022 12:02,12/09/2022 13:04
+17,Matthew Adams,Call Quality,Leila Costa,London,22/07/2022 13:20,12/09/2022 09:11
+18,Chloe King,System Crash,Zara Khan,London,22/07/2022 14:25,09/09/2022 18:01
+19,Anthony Hall,Headset Issue,Aaliyah Jensen,Sheffield,22/07/2022 16:00,07/09/2022 09:01
+20,Lila Kumar,Distorted Audio,Isaac Cohen,Newcastle upon Tyne,23/07/2022 15:06,09/09/2022 15:00
